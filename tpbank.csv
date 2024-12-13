@@ -1,0 +1,441 @@
+name	address	latitude	longitude	phone	workingTime	province
+LiveBank Ngọc Khánh Ba Đình (CRM/CDM)	27 Nguyễn Chí Thanh, Q.Ba Đình, Hà Nội	21.0292058625034	105.812796513245	1900585885		
+LiveBank Nguyễn Thái Học Ba Đình (CRM/CDM)	152 Nguyễn Thái Học, phường Kim Mã, quận Ba Đình, TP.Hà Nội	21.0323719174281	105.83003783103	1900585885		
+LiveBank Đội Cấn Ba Đình (CRM/CDM)	Số 164A Đội Cấn, phường Đội Cấn, quận Ba Đình, TP.Hà Nội	21.0348431586046	105.825584385239	1900585885		
+LiveBank Cửa Nam Ba Đình (CRM/CDM)	Tầng 1 Tòa nhà Doji Tower, Số 5 Lê Duẩn, phường Cửa Nam, quận Ba Đình, TP.Hà Nội	21.0289875795685	105.841598411414	1900585885		
+LiveBank Núi Trúc Ba Đình (CRM/CDM)	Số 57B Núi Trúc, phường Kim Mã, quận Ba Đình, TP.Hà Nội	21.0300794911495	105.822700217747	1900585885		
+LiveBank Hoàng Hoa Thám Ba Đình (CRM/CDM)	Số 131 Hoàng Hoa Thám, phường Ngọc Hà, quận Ba Đình, TP.Hà Nội	21.0403288059335	105.825552561317	1900585885		
+LiveBank Vĩnh Phúc Ba Đình (CRM/CDM)	Số 22 ngõ 6 đường Vĩnh Phúc, phường Vĩnh Phúc, quận Ba Đình, TP.Hà Nội	21.0443450926642	105.80862057094	1900585885		
+LiveBank Cửa Bắc Ba Đình (CRM/CDM)	Số 63 Cửa Bắc, phường Trúc Bạch, quận Ba Đình, TP.Hà Nội	21.0428481449802	105.84278375711	1900585885		
+LiveBank Đốc Ngữ Ba Đình (CRM/CDM)	Số 140 Đốc Ngữ, phường Vĩnh Phúc, quận Ba Đình, TP.Hà Nội	21.0382381650383	105.812821659537	1900585885		
+TPBank Đội Cấn	Số 155 Đội Cấn, phường Đội Cấn, quận Ba Đình, TP.Hà Nội	21.0349598440631	105.826307128201	1900585885		
+TPBank Phạm Hùng	Tầng 1 Tòa nhà FPT, P. Duy Tân, Dịch Vọng Hậu, Cầu Giấy, Hà Nội	21.030868657399996	105.78265693835681	1900585885		
+LiveBank Green Star Bắc Từ Liêm (CRM/CDM)	Tầng 1 nhà B5, Chung cư Green Star, số 234 Phạm Văn Đồng, phường Cổ Nhuế, quận Bắc Từ Liêm, TP.Hà Nội	21.052976455632013	105.77987753082951	1900585885		
+LiveBank Trần Đăng Ninh Cầu Giấy (CRM/CDM)	Chung cư A5, Làng quốc tế Thăng Long, đường Trần Đăng Ninh, phường Dịch Vọng, quận Cầu Giấy, TP.Hà Nội	21.0387517	105.790079	1900585885		
+LiveBank Đông Quan Cầu Giấy (CRM/CDM)	Số 15 Đông Quan, phường Quan Hoa, quận Cầu Giấy, TP.Hà Nội	21.03973543921621	105.80491693124249	1900585885		
+LiveBank Goldmark City Bắc Từ Liêm (CRM/CDM)	Số 190 Hoàng Công Chất, phường Cầu Diễn, quận Bắc Từ Liêm, TP.Hà Nội	21.043574524025235	105.76574187150605	1900585885		
+LiveBank Hoàng Quốc Việt Cầu Giấy (CRM/CDM)	Số 32 Hoàng Quốc Việt, phường Nghĩa Đô, quận Cầu Giấy, TP.Hà Nội	21.04645520689199	105.79790468126467	1900585885		
+LiveBank Yên Hòa Cầu Giấy (CRM/CDM)	Số 191 Yên Hòa, phường Yên Hòa, quận Cầu Giấy, TP.Hà Nội	21.023480078871476	105.79319471359584	1900585885		
+LiveBank FPT Tôn Thất Thuyết Cầu Giấy (CRM/CDM)	Tòa nhà Detech số 08 Tôn Thất Thuyết, phường Dịch Vọng Hậu, quận Cầu Giấy, TP.Hà Nội	21.028537118550506	105.78209125781125	1900585885		
+LiveBank Cổ Nhuế Bắc Từ Liêm (CRM/CDM)	Số 89 Cổ Nhuế, phường Cổ Nhuế, quận Bắc Từ Liêm, TP.Hà Nội	21.06082472345185	105.78169455952377	1900585885		
+LiveBank Trần Cung Cầu Giấy (CRM/CDM)	Số 61 Trần Cung, phường Nghĩa Tân, quận Cầu Giấy, TP.Hà Nội	21.047672769542682	105.79002274097475	1900585885		
+LiveBank Lê Văn Hiến Bắc Từ Liêm (CRM/CDM)	Số 55 Lê Văn Hiến, phường Đức Thắng, quận Bắc Từ Liêm, TP.Hà Nội	21.074125985312563	105.77449408598201	1900585885		
+LiveBank Doãn Kế Thiện Cầu Giấy (CRM/CDM)	Số 35 Doãn Kế Thiện, phường Mai Dịch, quận Cầu Giấy, TP.Hà Nội	21.040891765242176	105.77929150038074	1900585885		
+LiveBank CT3 Bộ Công An Phạm Văn Đồng (CRM/CDM)	Tầng 1 Chung cư CT3 Bộ Công An, đường Phạm Văn Đồng, phường Cổ Nhuế 2, quận Bắc Từ Liêm, TP.Hà Nội	21.057838571191716	105.77756584673038	1900585885		
+TPBank Cầu Giấy	Số 110 Nguyễn Khánh Toàn, phường Quan Hoa, quận Cầu Giấy, TP.Hà Nội	21.0376451	105.798782	1900585885		
+LiveBank Phan Văn Trường Cầu Giấy (CRM/CDM)	Số 137 Phan Văn Trường, phường Dịch Vọng Hậu, quận Cầu Giấy, TP.Hà Nội	21.041273395125465	105.7861127383179	1900585885		
+LiveBank Trung Kính Cầu Giấy (CRM/CDM)	Số 110 Trung Kính, phường Yên Hòa, Quận Cầu Giấy, TP Hà Nội	21.016620727092217	105.79424790695023	1900585885		
+LiveBank Lạc Long Quân Cầu Giấy (CRM/CDM)	61 Lạc Long Quân, quận Cầu Giấy, TP Hà Nội	21.05150103824812	105.80821286746755	1900585885		
+LiveBank Sunshine City Bắc Từ Liêm (CRM/CDM)	Tòa S3, chung cư Sunshine City, đường Phạm Văn Đồng, phường Đông Ngạc, quận Bắc Từ Liêm, TP.Hà Nội	21.0854536710813	105.79171364279424	1900585885		
+TPBank Bắc Từ Liêm	Chung cư Horizon Tower N03 T3 T4, Xuân Đỉnh, Bắc Từ Liêm, Hà Nội 100000, Vietnam	21.06531826369462	105.79789139629808	1900585885		
+LiveBank Dương Đình Nghệ Cầu Giấy (CRM/CDM)	Lô E2 đường Dương Đình Nghệ, phường Yên Hòa, quận Cầu Giấy, TP.Hà Nội	21.0194515319307	105.784250135142	1900585885		
+TPBank LiveBank FPT Phạm Văn Bạch Cầu Giấy (CRM/CDM)	Sảnh Tòa nhà FPT Tower, số 10 Phạm Văn Bạch, phường Dịch Vọng, quận Cầu Giấy, TP.Hà Nội	21.0271479	105.7863023	1900585885		
+LiveBank Dương Quảng Hàm Cầu Giấy (CRM/CDM)	Số 45 Dương Quảng Hàm, phường Quan Hoa, quận Cầu Giấy, TP.Hà Nội	21.0342081579068	105.799210628376	1900585885		
+LiveBank Mai Dịch Cầu Giấy (CRM/CDM)	Số 86 Mai Dịch, phường Mai Dịch, quận Cầu Giấy, TP.Hà Nội	21.0414028287644	105.774957835859	1900585885		
+TPBank Trung Hòa Nhân Chính	Tầng 1, tòa nhà 24T1, Khu đô thị mới Trung Hòa &ndash; Nhân Chính, phường Trung Hoà, quận Cầu Giấy, TP.Hà Nội	21.0085138	105.8018727	1900585885		
+LiveBank Chung cư Euro Window Đông Anh (CRM/CDM)	Chung cư Euro Window RiverPark, Shophouse P208, Đông Hội, Đông Anh, Hà Nội, Vietnam	21.078873147887112	105.87452277190842	1900585885		
+LiveBank Xã Đàn Đống Đa (CRM/CDM)	Số 242 Xã Đàn, phường Ô Chợ Dừa, quận Đống Đa, TP.Hà Nội	21.0123889488563	105.836350801159	1900585885		
+TPBank Đống Đa	Số 95 Hoàng Cầu, Ô Chợ Dừa, Đống Đa, Hà Nội	21.016182394668	105.823011780548	1900585885		
+LiveBank Khâm Thiên Đống Đa (CRM/CDM)	Số 44 Khâm Thiên, phường Khâm Thiên, quận Đống Đa, TP.Hà Nội	21.0190324781794	105.838876885545	1900585885		
+LiveBank Thái Thịnh Đống Đa (CRM/CDM)	Số 41A Thái Thịnh, phường Ngã Tư Sở, quận Đống Đa, TP.Hà Nội	21.0077323566972	105.82101549463	1900585885		
+LiveBank Khương Thượng Đống Đa (CRM/CDM)	Số 70 Khương Thượng, phường Khương Thượng, quận Đống Đa, TP.Hà Nội	21.0051616107849	105.825863448845	1900585885		
+LiveBank Hào Nam Đống Đa (CRM/CDM)	Số 146 Hào Nam, phường Cát Linh, quận Đống Đa, TP.Hà Nội	21.0255524151929	105.8276627075203	1900585885		
+LiveBank Chùa Láng Đống Đa (CRM/CDM)	Số 177 Chùa Láng, phường Chùa Láng, quận Đống Đa, TP.Hà Nội	21.0230115886282	105.801509817567	1900585885		
+LiveBank Thành Công Đống Đa (CRM/CDM)	Số 17 Thành Công, phường Thành Công, quận Đống Đa, TP.Hà Nội	21.0232983036802	105.816224641949	1900585885		
+LiveBank Đê La Thành Đống Đa (CRM/CDM)	Số 416 Đê La Thành, phường Ô Chợ Dừa, quận Đống Đa, TP.Hà Nội	21.022961843515	105.822351888113	1900585885		
+LiveBank Nguyên Hồng Đống Đa (CRM/CDM)	Số 28 Nguyên Hồng, phường Láng Hạ, quận Đống Đa, TP.Hà Nội	21.0171128082444	105.811075494483	1900585885		
+LiveBank Ngô Xuân Quảng Gia Lâm (CRM/CDM)	Số 42 Ngô Xuân Quảng, thị trấn Trâu Quỳ, huyện Gia Lâm, TP.Hà Nội	21.0139198802341	105.936314387575	1900585885		
+LiveBank Dương Nội Hà Đông (CRM/CDM)	Tòa CT7J, Khu đô thị Dương Nội, đường Lê Văn Lương kéo dài, phường Yên Nghĩa, quận Hà Đông, TP.Hà Nội	20.963420089049	105.748920726559	1900585885		
+LiveBank Xa La Hà Đông (CRM/CDM)	Lô số 6 BT12, khu đô thị Xa La, phường Phúc La, quận Hà Đông, TP.Hà Nội	20.9626899364764	105.793079834842	1900585885		
+LiveBank Nguyễn Khuyến Hà Đông (CRM/CDM)	Số 44 Nguyễn Khuyến, phường Văn Quán, quận Hà Đông, TP.Hà Nội	20.9774965163358	105.787827641919	1900585885		
+LiveBank Nguyễn Văn Lộc Hà Đông (CRM/CDM)	Số 61 - LK5A, phố Nguyễn Văn Lộc, Làng Việt Kiều Châu Âu, phường Mộ Lao, quận Hà Đông, TP.Hà Nội	20.9853229874742	105.786237845897	1900585885		
+LiveBank K Park Hà Đông (CRM/CDM)	Shophouse số SH08, khu đô thị K Park, đường Lê Trọng Tấn, phường Phúc La, quận Hà Đông, TP.Hà Nội	20.9592895185591	105.767309530326	1900585885		
+LiveBank The Vesta Hà Đông (CRM/CDM)	Kiot số 10 toà V3, khu đô thị The Vesta, phường Phú Lâm, quận Hà Đông, TP.Hà Nội	20.9468531269864	105.756258822227	1900585885		
+LiveBank Aeon Mall Hà Đông (CRM/CDM)	Sảnh Tương Lai, TTTM Aeon Mall Hà Đông, phường Dương Nội, quận Hà Đông, TP.Hà Nội	20.9889443323764	105.750250642768	1900585885		
+TPBank Thành Đô	Tầng 1, Khối nhà 2 (tháp B), Tòa nhà CC số 7 , 197 Trần Phú, Hà Đông, Hà Nội	20.9847939645353	105.794033712893	1900585885		
+LiveBank The Pride Hải Phát (CRM/CDM)	Shophouse tòa nhà CT1, chung cư The Pride Hải Phát, đường Tố Hữu, phường La Khê, quận Hà Đông, TP.Hà Nội	20.9726060681	105.758513095565	1900585885		
+TPBank Vạn Phúc	Khu nhà ở Ngân Hà Vạn Phúc, phường Vạn Phúc, quận Hà Đông, TP.Hà Nội	20.984947984541	105.775965343715	1900585885		
+LiveBank Quang Trung Hà Đông (CRM/CDM)	Số 336 Quang Trung, phường Quang Trung, quận Hà Đông, TP.Hà Nội	20.9639447905861	105.766545128675	1900585885		
+LiveBank Lê Hồng Phong Hà Đông (CRM/CDM)	Số 33 Lê Hồng Phong, phường Nguyễn Trãi, quận Hà Đông, TP.Hà Nội	20.9692732196412	105.778146270881	1900585885		
+LiveBank Hồ Gươm Plaza Hà Đông (CRM/CDM)	Kios 2S16, TTTM TOPS Hà Đông, đường Vũ Trọng Khánh, phường Mộ Lao, quận Hà Đông, TP.Hà Nội	20.9788405008534	105.78538482163	1900585885		
+LiveBank Times City Hai Bà Trưng (CRM/CDM)	Shophouse B05, Khu đô thị Times City, số 458 Minh Khai, phường Vĩnh Tuy, quận Hai Bà Trưng, TP.Hà Nội	20.9965548063513	105.870195262802	1900585885		
+LiveBank Lò Đúc Hai Bà Trưng (CRM/CDM)	Số 184 Lò Đúc, phường Đống Mác, quận Hai Bà Trưng, TP.Hà Nội	21.0110747371302	105.859741674312	1900585885		
+TPBank Hai Bà Trưng	Số 300-302 Trần Khát Chân, phường Thanh Nhàn, quận Hai Bà Trưng, TP.Hà Nội	21.01318	105.85896	1900585885		
+LiveBank Lạc Trung Hai Bà Trưng (CRM/CDM)	Số 218 Lạc Trung, phường Vĩnh Tuy, quận Hai Bà Trưng, TP.Hà Nội	21.0030223947417	105.866494427899	1900585885		
+TPBank Hồng Hà	Số 44 Lê Ngọc Hân, phường Phạm Đình Hổ, quận Hai Bà Trưng, TP.Hà Nội	21.0159581687586	105.855064744129	1900585885		
+LiveBank Bạch Mai Hai Bà Trưng (CRM/CDM)	Số 153A Bạch Mai, phường Thanh Nhàn, quận Hai Bà Trưng, TP.Hà Nội	21.0056489010434	105.851262396272	1900585885		
+LiveBank Trương Định Hai Bà Trưng (CRM/CDM)	Số 22 Trương Định, phường Trương Định, quận Hai Bà Trưng, TP.Hà Nội	20.9953106778674	105.849751656562	1900585885		
+LiveBank Thanh Nhàn Hai Bà Trưng (CRM/CDM)	Số 215 Thanh Nhàn, phường Thanh Nhàn, quận Hai Bà Trưng, TP.Hà Nội	21.0027349131835	105.855051333012	1900585885		
+LiveBank Phố Vọng Hai Bà Trưng (CRM/CDM)	Số 235 Phố Vọng, phường Đồng Tâm, quận Hai Bà Trưng, TP.Hà Nội	20.9954938733912	105.842905107195	1900585885		
+LiveBank Imperia Sky Garden Hai Bà Trưng (CRM/CDM)	Kiosk D16 chung cư Imperia Sky Garden, đường Minh Khai, phường Vĩnh Tuy, quận Hai Bà Trưng, TP.Hà Nội	20.9987168779923	105.865935138986	1900585885		
+LiveBank Trần Đại Nghĩa Hai Bà Trưng (CRM/CDM)	Số 163 Trần Đại Nghĩa, phường Bách Khoa, quận Hai Bà Trưng, TP.Hà Nội	21.0010764818866	105.845373385957	1900585885		
+LiveBank Park Hill Hai Bà Trưng (CRM/CDM)	Tầng 1 P05S04, tòa Park Hill 5, KĐT Times City, số 458 Minh Khai, phường Vĩnh Tuy, quận Hai Bà Trưng, TP.Hà Nội	20.9910216053183	105.869325276584	1900585885		
+TPBank Vĩnh Tuy	Số 349 Minh Khai, phường Vĩnh Tuy, quận Hai Bà Trưng, TP.Hà Nội	20.9975694	105.8650482	1900585885		
+LiveBank Nguyễn Huy Tự Hai Bà Trưng (CRM/CDM)	Số 2 Nguyễn Huy Tự, phường Bạch Đằng, quận Hai Bà Trưng, TP.Hà Nội	21.0142157	105.8600054	1900585885		
+TPBank Nam Hà Nội	Số 236 Lê Thanh Nghị, phường Đồng Tâm, quận Hai Bà Trưng, TP.Hà Nội	21.0020386042478	105.842675899908	1900585885		
+LiveBank CC Gemek Hoài Đức (CRM/CDM)	Kiot số L1-29 chung cư Gemek, đường Lê Trọng Tấn, xã An Khánh, huyện Hoài Đức, TP.Hà Nội	21.0032547449366	105.732365291495	1900585885		
+LiveBank CC Thăng Long Victory Hoài Đức (CRM/CDM)	Shophouse chung cư Thăng Long Victory, xã An Khánh, huyện Hoài Đức, TP.Hà Nội	21.0089350828462	105.720825307464	1900585885		
+TPBank Hội sở	Số 57 Lý Thường Kiệt, phường Trần Hưng Đạo, quận Hoàn Kiếm, TP.Hà Nội	21.0239637780935	105.848353603231	1900585885		
+LiveBank Bát Sứ Hoàn Kiếm (CRM/CDM)	Số 54 P. Bát Sứ, Hàng Bồ, Hoàn Kiếm, Hà Nội	21.03528143891949	105.84744460370622	1900585885		
+LiveBank Đinh Liệt Hoàn Kiếm (CRM/CDM)	Số 3 Đinh Liệt, phường Hàng Bạc, quận Hoàn Kiếm, TP.Hà Nội	21.0336399336427	105.852038253565	1900585885		
+LiveBank Bạch Đằng Hoàn Kiếm (CRM/CDM)	Số 39 Bạch Đằng, phường Chương Dương, quận Hoàn Kiếm, TP.Hà Nội	21.0314647001212	105.858882628826	1900585885		
+TPBank Hồ Gươm	Số 12-14 Trần Nhật Duật, phường Đồng Xuân, quận Hoàn Kiếm, TP.Hà Nội	21.0391405	105.8511507	1900585885		
+TPBank Kinh Đô	Tòa nhà Smile &ndash; Số 1 Nguyễn Cảnh Dị, phường Định Công, quận Hoàng Mai, TP.Hà Nội	20.978063	105.8361375	1900585885		
+LiveBank Rice City Linh Đàm (CRM/CDM)	Tầng 1 tòa Trung, Chung cư Rice City Linh Đàm, phường Hoàng Liệt, quận Hoàng Mai, TP.Hà Nội	20.9635066597189	105.82314085021	1900585885		
+LiveBank Định Công Hạ Hoàng Mai (CRM/CDM)	Số 203 phố Định Công Hạ, phường Định Công, quận Hoàng Mai, TP.Hà Nội	20.9844285013394	105.823946419944	1900585885		
+LiveBank 112 Định Công Hoàng Mai (CRM/CDM)	Số 112 Định Công, phường Định Công, quận Hoàng Mai, TP.Hà Nội	20.984589627469	105.838098102616	1900585885		
+TPBank Hoàng Mai	Tòa nhà Madarin Garden 2, số 99 Tân Mai, phường Tân Mai, quận Hoàng Mai, TP.Hà Nội	20.9839204	105.8478851	1900585885		
+LiveBank Nguyễn An Ninh Hoàng Mai (CRM/CDM)	Số 109 Nguyễn An Ninh, phường Tương Mai, quận Hoàng Mai, TP.Hà Nội	20.9927121183583	105.844125615014	1900585885		
+LiveBank VP5 Linh Đàm (CRM/CDM)	Kiot số 42 chung cư VP5, khu đô thị Linh Đàm, phường Hoàng Liệt, quận Hoàng Mai, TP.Hà Nội	20.9636293946383	105.831584659073	1900585885		
+LiveBank Vĩnh Hưng Hoàng Mai (CRM/CDM)	Số 438 Vĩnh Hưng, phường Vĩnh Hưng, quận Hoàng Mai, TP.Hà Nội	20.9986602490124	105.879777138474	1900585885		
+LiveBank Vĩnh Tuy Hoàng Mai (CRM/CDM)	Số 10 ngõ 122 Vĩnh Tuy, phường Vĩnh Tuy, quận Hoàng Mai, TP.Hà Nội	21.0010153173818	105.875593016502	1900585885		
+LiveBank Kim Văn Kim Lũ Hoàng Mai (CRM/CDM)	Ki ốt số 2 toà CT12C, khu đô thị Kim Văn Kim Lũ, phường Đại Kim, quận Hoàng Mai, TP.Hà Nội	20.9723587085031	105.820373887696	1900585885		
+LiveBank HH Linh Đàm Hoàng Mai (CRM/CDM)	Kiot số 46, tòa HH4B, chung cư HH Linh Đàm, phường Hoàng Liệt, quận Hoàng Mai, TP.Hà Nội	20.9630222361866	105.826114613109	1900585885		
+LiveBank Nguyễn Đức Cảnh Hoàng Mai (CRM/CDM)	Số 62A Nguyễn Đức Cảnh, phường Tương Mai, quận Hoàng Mai, TP.Hà Nội	20.9872937743151	105.849849783992	1900585885		
+LiveBank Mipec Long Biên (CRM/CDM)	Tầng 1 TTTM Mipec Long Biên, Số 2 đường Long Biên 2, phường Ngọc Thụy, quận Long Biên, TP.Hà Nội	21.0458001162741	105.865990077909	1900585885		
+TPBank Long Biên	Số 560 Nguyễn Văn Cừ, phường Gia Thụy, quận Long Biên, TP.Hà Nội	21.0508009973815	105.884751128724	1900585885		
+LiveBank Aeon Mall Long Biên (CRM/CDM)	Sảnh Đông, Trung tâm Thương mại Aeon Mall Long Biên, số 27 Đ. Cổ Linh, Long Biên, Hà Nội, Việt Nam	21.0280860599598	105.898256493389	1900585885		
+LiveBank Trường Lâm Long Biên (CRM/CDM)	Số 46 Trường Lâm, phường Đức Giang, quận Long Biên, TP.Hà Nội	21.0621922079026	105.896469816673	1900585885		
+LiveBank Sài Đồng Long Biên (CRM/CDM)	Số 116 Sài Đồng, phường Sài Đồng, quận Long Biên, TP.Hà Nội	21.036527194057	105.911468972635	1900585885		
+LiveBank KĐT Việt Hưng Long Biên (CRM/CDM)	Số 102 K10, KĐT Việt Hưng, phường Giang Biên, quận Long Biên, TP.Hà Nội	21.0646653838551	105.908167999792	1900585885		
+LiveBank Ngọc Lâm Long Biên (CRM/CDM)	Số 314 Ngọc Lâm, phường Ngọc Lâm, quận Long Biên, TP.Hà Nội	21.0475755852905	105.873310342031	1900585885		
+TPBank Mỹ Đình	Toà nhà MD COMPLEX TOWER, số 68 Nguyễn Cơ Thạch, phường Cầu Diễn, quận Nam Từ Liêm, TP.Hà Nội	21.0323595482508	105.764701442424	1900585885		
+LiveBank Trần Bình Cầu Giấy (CRM/CDM)	Số 99 Trần Bình, phường Mỹ Đình 2, quận Nam Từ Liêm, TP.Hà Nội	21.0305083699899	105.77643969956	1900585885		
+LiveBank Mỹ Đình Nam Từ Liêm (CRM/CDM)	Số 398 đường Mỹ Đình, phường Mỹ Đình 1, quận Nam Từ Liêm, TP.Hà Nội	21.0214730410471	105.774914300901	1900585885		
+LiveBank KĐT Trung Văn Nam Từ Liêm (CRM/CDM)	Tầng 1 tòa 17T2, khu đô thị Trung Văn, phường Trung Văn, quận Nam Từ Liêm, TP.Hà Nội	20.9943399057253	105.778462101719	1900585885		
+LiveBank Vinhomes Green Bay Nam Từ Liêm (CRM/CDM)	Gian hàng kinh doanh số 0115, Nhà hỗn hợp cao tầng HH3 (G3), Chung cư Vinhomes Green Bay, phường Mễ Trì, quận Nam Từ Liêm, TP.Hà Nội	21.0007966893124	105.784187299543	1900585885		
+LiveBank Vinhomes Smart City Nam Từ Liêm (CRM/CDM)	Shophouse số SH21 toà S2.01, khu đô thị Vinhomes Smart City, phường Tây Mỗ, quận Nam Từ Liêm, TP.Hà Nội	21.0071122506264	105.736986997715	1900585885		
+LiveBank Cao Đẳng FPT Trịnh Văn Bô (CRM/CDM)	Cổng trường Cao đẳng FPT Polytechnic, đường Trịnh Văn Bô, phường Xuân Phương, quận Nam Từ Liêm, TP.Hà Nội	21.0381027380561	105.746765642328	1900585885		
+TPBank Sơn Tây	Đ. Phú Hà, P. Ngô Quyền, Sơn Tây, Hà Nội, Vietnam	21.145565319123158	105.5026008583284	1900585885		
+LiveBank Yên Phụ Tây Hồ (CRM/CDM)	Số 106 Yên Phụ, phường Yên Phụ, quận Tây Hồ, TP.Hà Nội	21.0532560116772	105.836880133845	1900585885		
+LiveBank Xuân Đỉnh Tây Hồ (CRM/CDM)	Số 307 Xuân Đỉnh, phường Xuân Đỉnh, quận Tây Hồ, TP.Hà Nội	21.0713508724207	105.792345850634	1900585885		
+TPBank Tây Hồ	D Eldorado, Toà, số 298 Đ. Võ Chí Công, Xuân La, Tây Hồ, Hà Nội	21.071068511464894	105.80946149629808	1900585885		
+LiveBank An Dương Tây Hồ (CRM/CDM)	Số 32 An Dương, phường Yên Phụ, quận Tây Hồ, TP.Hà Nội	21.0513510716957	105.841080357404	1900585885		
+TPBank Thanh Trì	Số 357 Ngọc Hồi, xã Ngọc Hồi, huyện Thanh Trì, TP.Hà Nội	20.9448825	105.8446954	1900585885		
+LiveBank Imperia Garden Thanh Xuân (CRM/CDM)	Lô S01, Tầng 1, Khu A của Tòa nhà Imperia Garden &ndash; 203 Nguyễn Huy Tưởng, phường Thanh Xuân, quận Thanh Xuân, TP.Hà Nội	20.9978075321219	105.803358853424	1900585885		
+LiveBank GoldenLand Thanh Xuân (CRM/CDM)	Tầng 1 tòa A, Chung cư GoldenLand, số 275 Nguyễn Trãi, phường Thanh Xuân Trung, quận Thanh Xuân, TP.Hà Nội	20.9931543604035	105.807907804313	1900585885		
+LiveBank Khương Trung Thanh Xuân (CRM/CDM)	Số 269 Khương Trung, phường Khương Trung, quận Thanh Xuân, TP.Hà Nội	20.9951952443518	105.817434017504	1900585885		
+LiveBank Ngụy Như Kontum Thanh Xuân (CRM/CDM)	Số 70 Ngụy Như Kon Tum, phường Nhân Chính, quận Thanh Xuân, TP.Hà Nội	20.9990523897591	105.800842015182	1900585885		
+TPBank Thanh Xuân	Số 194 Lê Trọng Tấn, phường Khương Mai, quận Thanh Xuân, TP.Hà Nội	20.9941275565609	105.831252194036	1900585885		
+TPBank Đông Đô	Tầng 1, tòa nhà Licogi 13, Khuất Duy Tiến, phường Nhân Chính, quận Thanh Xuân, TP.Hà Nội	20.9988396	105.7981149	1900585885		
+LiveBank Triều Khúc Thanh Xuân (CRM/CDM)	Số 106 Triều Khúc, phường Thanh Xuân, quận Thanh Xuân, TP.Hà Nội	20.9830872255775	105.800675701726	1900585885		
+LiveBank Vương Thừa Vũ Thanh Xuân (CRM/CDM)	Số 48 Vương Thừa Vũ, phường Khương Trung, quận Thanh Xuân, TP.Hà Nội	21.0000149218779	105.821967044138	1900585885		
+LiveBank Trường Chinh Thanh Xuân (CRM/CDM)	Số 19/102 Trường Chinh, phường Phương Đình, quận Thanh Xuân, TP.Hà Nội	20.9989477005701	105.837716704913	1900585885		
+LiveBank Nguyễn Huy Tưởng Thanh Xuân (CRM/CDM)	Số 36 Nguyễn Huy Tưởng, phường Thanh Xuân Trung, quận Thanh Xuân, TP.Hà Nội	20.9995107271122	105.80722759924	1900585885		
+LiveBank Nguyễn Quý Đức Thanh Xuân (CRM/CDM)	Số 105D3 khu tập thể Thanh Xuân Bắc, đường Nguyễn Quý Đức, phường Thanh Xuân Bắc, quận Thanh Xuân, TP.Hà Nội	20.9934940896101	105.799578930635	1900585885		
+TPBank Hà Thành	Số 2 Chùa Bộc, phường Quang Trung, quận Đống Đa, TP.Hà Nội	21.0065109564977	105.831079139938	1900585885		
+LiveBank Khu công nghiệp Nội Bài (CRM/CDM)	Cổng khu công nghiệp Nội Bài, huyện Sóc Sơn, TP.Hà Nội	21.2347044322088	105.807720268174	1900585885		
+LiveBank FPT Software Hòa Lạc (CRM/CDM)	Fville, KCNC Hòa Lạc, Km 29 Đại Lộ Thăng Long, xã Tân Xá, huyện Thạch Thất, TP.Hà Nội	21.0098588355433	105.535163264129	1900585885		
+LiveBank Đại học FPT Hòa Lạc (CRM/CDM)	Khu Giáo dục và Đào tạo Khu Công nghệ cao Hòa Lạc Km 29 Đại lộ Thăng Long VN, 29km, CT03, Thạch Hoà, Thạch Thất, Hà Nội	21.003188441544477	105.6483134930742	1900585885		
+LiveBank KĐT Thanh Hà Thanh Oai (CRM/CDM)	Ki ốt 02 toà HH02B khu đô thị Thanh Hà, xã Cự Khê, huyện Thanh Oai, TP.Hà Nội	20.9325176784992	105.78417754729	1900585885		
+LiveBank Điện Biên Phủ Quận 1 (CRM/CDM)	Số 82 Điện Biên Phủ, phường Đa Kao, quận 1, TP.Hồ Chí Minh	10.7902803531435	106.697263398793	1900585885		
+LiveBank Phạm Ngũ Lão Quận 1 (CRM/CDM)	Số 275a Phạm Ngũ Lão, phường Phạm Ngũ Lão, quận 1, TP.Hồ Chí Minh	10.7681851404347	106.692095874516	1900585885		
+LiveBank Hàm Nghi Quận 1 (CRM/CDM)	Chân tòa nhà Ruby Tower, số 81-83-85 Hàm Nghi, phường Nguyễn Thái Bình, quận 1, TP.Hồ Chí Minh	10.7747153845681	106.683585828552	1900585885		
+LiveBank Trần Quang Khải Quận 1 (CRM/CDM)	Số 127C Trần Quang Khải, phường Tân Định, quận 1, TP.Hồ Chí Minh	10.7918889629726	106.691907542045	1900585885		
+TPBank Bến Thành	180 đường Nam Kỳ Khởi Nghĩa, Phường 6, Quận 3, Hồ Chí Minh	10.78134242051549	106.69421224232832	1900585885		
+TPBank Quận 3	Số 19B&amp;19C Kỳ Đồng, phường 9, quận 3, TP.Hồ Chí Minh	10.7825290934332	106.682134976863	1900585885		
+LiveBank 122 Cách mạng tháng Tám Quận 3 (CRM/CDM)	Ký túc xá SV Lào, số 122ABC Cách mạng Tháng 8, phường 7, quận 3, TP.Hồ Chí Minh	10.7771759265253	106.683091031925	1900585885		
+LiveBank Lý Chính Thắng Quận 3 (CRM/CDM)	Số 77B Lý Chính Thắng, phường 8, quận 3, TP.Hồ Chí Minh	10.7895882738737	106.685765360186	1900585885		
+LiveBank Nguyễn Đình Chiểu Quận 3 (CRM/CDM)	Số 778 Nguyễn Đình Chiểu, phường 1, quận 3, TP.Hồ Chí Minh	10.7685003266759	106.678687594288	1900585885		
+LiveBank Nguyễn Thượng Hiền Quận 3 (CRM/CDM)	Số 261 Nguyễn Thượng Hiền, phường 4, quận 3, TP.Hồ Chí Minh	10.7747153845681	106.683585828552	1900585885		
+LiveBank Galaxy Nguyễn Khoái Quận 4 (CRM/CDM)	Chung cư Galaxy 9, Số 9 Nguyễn Khoái, phường 1, quận 4, TP.Hồ Chí Minh	10.7549378292954	106.694086514321	1900585885		
+LiveBank Khánh Hội Quận 4 (CRM/CDM)	Số 121 Khánh Hội, phường 3, quận 4, TP.Hồ Chí Minh	10.7553255491419	106.701806458145	1900585885		
+LiveBank Vĩnh Hội Quận 4 (CRM/CDM)	Số 121 Vĩnh Hội, phường 4, quận 4, TP.Hồ Chí Minh	10.7563040076581	106.705082489324	1900585885		
+LiveBank Nguyễn Tất Thành Quận 4 (CRM/CDM)	Số 332/1 Nguyễn Tất Thành, phường 13, quận 4, TP.Hồ Chí Minh	10.7605487214193	106.711463144514	1900585885		
+LiveBank Đỗ Ngọc Thạnh Quận 5 (CRM/CDM)	Số 100 Đỗ Ngọc Thạnh, phường 14, quận 5, TP.Hồ Chí Minh	10.7528304432445	106.656250999417	1900585885		
+LiveBank Trần Bình Trọng Quận 5 (CRM/CDM)	Số 74 Trần Bình Trọng, phường 1, quận 5, TP.Hồ Chí Minh	10.7544957152038	106.68197402264	1900585885		
+LiveBank Bình Phú Quận 6 (CRM/CDM)	Số 79 Bình Phú, phường 11, quận 6, TP.Hồ Chí Minh	10.7424450569892	106.629865436762	1900585885		
+LiveBank Bà Hom Quận 6 (CRM/CDM)	Số A5 đường Bà Hom, phường 13, quận 6, TP.Hồ Chí Minh	10.7548258067374	106.629937692363	1900585885		
+TPBank Hùng Vương	Số 32, đường Hậu Giang, phường 2, quận 6, thành phố Hồ Chí Minh, Việt Nam	10.7497210147565	106.648182842154	1900585885		
+LiveBank Đường số 23 Quận 6 (CRM/CDM)	Số 171 đường số 23, phường 11, quận 6, TP.Hồ Chí Minh	10.7448629954564	106.625527774651	1900585885		
+LiveBank Tân Hòa Đông Quận 6 (CRM/CDM)	Số 35B Tân Hòa Đông, phường 14, quận 6, TP.Hồ Chí Minh	10.7562459442416	106.632153765372	1900585885		
+LiveBank Nguyễn Văn Luông Quận 6 (CRM/CDM)	Số 244B Nguyễn Văn Luông, phường 11, quận 6, TP.Hồ Chí Minh	10.7463395629074	106.635110783904	1900585885		
+LiveBank FPT Tân Thuận 2 Quận 7 (CRM/CDM)	Lô L 29B-31B-33B, đường Tân Thuận, KCX Tân Thuận, phường Tân Thuận Đông, quận 7, TP.Hồ Chí Minh	10.7536526761846	106.740441784824	1900585885		
+LiveBank Sunrise City Quận 7 (CRM/CDM)	Lô thương mại X-01.09, Tòa nhà Sunrise City, số 27 Nguyễn Hữu Thọ, phường Tân Hưng, quận 7, TP.Hồ Chí Minh	10.743253808575	106.701151181631	1900585885		
+LiveBank Eratown Quận 7 (CRM/CDM)	Block A5, Chung cư Era Town, phường Phú Mỹ, quận 7, TP.Hồ Chí Minh	10.7012600993493	106.73222522024	1900585885		
+LiveBank Hoàng Văn Thái Quận 7 (CRM/CDM)	Số 78 Hoàng Văn Thái, Khu đô thị PMH, Q.7, HCM	10.7288060480808	106.719908718943	1900585885		
+LiveBank Nguyễn Văn Linh Quận 7 (CRM/CDM)	1415 Đ. Nguyễn Văn Linh, Tân Phong, Quận 7, Hồ Chí Minh	10.728900925627983	106.70770825767171	1900585885		
+LiveBank Chung cư An Gia Quận 7 (CRM/CDM)	Shophouse 1.02, Chung cư An Gia, số 89 Hoàng Quốc Việt, phường Phú Mỹ, quận 7, TP.Hồ Chí Minh	10.7140186160055	106.740517167318	1900585885		
+LiveBank Florita Quận 7 (CRM/CDM)	A15 Khu Nhà ở Him Lam 83 Đường D4, P.Tân Hưng, Quận 7, HCM	10.7445482546787	106.695483617552	1900585885		
+LiveBank Chung cư Cosmo City Quận 7 (CRM/CDM)	Kios 1S10-C, TTTM GO! Nguyễn Thị Thập, Lô A, Khu Dân Cư Cityland, 99 Nguyễn Thị Thập,, phường Tân Phú, quận 7, TP.Hồ Chí Minh	10.7375206616996	106.725517599441	1900585885		
+LiveBank Tạ Quang Bửu Quận 8 (CRM/CDM)	924C Đ. Tạ Quang Bửu, Phường 5, Quận 8, Hồ Chí Minh	10.73514710438077	106.65835497724191	1900585885		
+LiveBank Pegasuite Quận 8 (CRM/CDM)	Shophouse PH64, Chung cư Pegasuite, đường Tạ Quang Bửu, phường 6, quận 8, TP.Hồ Chí Minh	10.734523134248	106.653877134319	1900585885		
+TPBank Quận 8	Số 360 Phạm Hùng, phường 5, quận 8, TP.Hồ Chí Minh	10.7383812051391	106.670583641789	1900585885		
+LiveBank Diamond Riverside Quận 8 (CRM/CDM)	Cổng bên Chung cư Diamond Riverside, phường 16, quận 8, TP.Hồ Chí Minh	10.7298551	106.6216653	1900585885		
+LiveBank Cao Lỗ Quận 8 (CRM/CDM)	Số 100 Cao Lỗ, phường 4, quận 8, TP.Hồ Chí Minh	10.7412017767117	106.677314130948	1900585885		
+LiveBank Nguyễn Thị Tần Quận 8 (CRM/CDM)	Số 22-22P Nguyễn Thị Tần, phường 2, quận 8, TP.Hồ Chí Minh	10.7453544669269	106.686504622788	1900585885		
+LiveBank Green River Quận 8 (CRM/CDM)	Cổng Chung cư Green River, Đ. Phạm Thế Hiển, Phường 6, Quận 8, Hồ Chí Minh, Vietnam	10.733560937463492	106.64434985314024	1900585885		
+LiveBank Ngô Quyền Quận 10 (CRM/CDM)	Số 153 Ngô Quyền, phường 6, quận 10, TP.Hồ Chí Minh	10.7634678197842	106.664504859526	1900585885		
+LiveBank Rivera Park Quận 10 (CRM/CDM)	Chung cư Rivera Park, phường 14, quận 10, TP.Hồ Chí Minh	10.7699678799172	106.664015220174	1900585885		
+LiveBank Vĩnh Viễn Quận 10 (CRM/CDM)	Số 84 Vĩnh Viễn, phường 2, quận 10, TP.Hồ Chí Minh	10.7650232315731	106.673281742352	1900585885		
+LiveBank Lý Thường Kiệt Quận 11 (CRM/CDM)	Số 299 Lý Thường Kiệt, phường 15, quận 11, TP.Hồ Chí Minh	10.7767316286843	106.656178767144	1900585885		
+LiveBank Công viên phần mềm Quang Trung (CRM/CDM)	Lô 45 Công viên Phần mềm Quang Trung, phường Tân Chánh Hiệp, quận 12, TP.Hồ Chí Minh	10.8540556797674	106.628974909477	1900585885		
+TPBank Quận 12	Số 6, đường Trường Chinh, phường Tân Thới Nhất, quận 12, thành phố Hồ Chí Minh, Việt Nam 	10.8352043	106.6171113	1900585885		
+LiveBank Nguyễn Văn Quá Quận 12 (CRM/CDM)	Số 78 Nguyễn Văn Quá, phường Đông Hưng Thuận, quận 12, TP.Hồ Chí Minh	10.8293919425122	106.627028981239	1900585885		
+LiveBank Lê Văn Khương Quận 12 (CRM/CDM)	149/4A Lê Văn Khương, Q.12, HCM	10.8696477866717	106.649235931463	1900585885		
+LiveBank Prosper Plaza Quận 12 (CRM/CDM)	Shophouse BS21 chung cư Prosper Plaza, đường Phan Văn Hớn, phường Tân Thới Nhất, quận 12, TP.Hồ Chí Minh	10.8302300566999	106.619021320508	1900585885		
+LiveBank Đông Bắc Quận 12 (CRM/CDM)	Số 183A đường Đông Bắc, phường Tân Chánh Hiệp, quận 12, TP.Hồ Chí Minh	10.8577826786284	106.628428621691	1900585885		
+LiveBank Tô Ký Quận 12 (CRM/CDM)	Số 344 đường Tô Ký, phường Tân Chánh Hiệp, quận 12, TP.Hồ Chí Minh	10.8585779554129	106.618244647239	1900585885		
+LiveBank 33H1 Nguyễn Ảnh Thủ Quận 12 (CRM/CDM)	Số 33H1 Nguyễn Ảnh Thủ, phường Hiệp Thành, quận 12, TP.Hồ Chí Minh	10.8791465725562	106.637113020781	1900585885		
+LiveBank Hà Huy Giáp Quận 12 (CRM/CDM)	Số 94 Hà Huy Giáp, phường Thạnh Lộc, quận 12, TP.Hồ Chí Minh	10.8551999907981	106.679550513243	1900585885		
+LiveBank Happy City Bình Chánh (CRM/CDM)	Sân Chung cư Happy City, đường Nguyễn Văn Linh, xã Bình Hưng, huyện Bình Chánh, TP.Hồ Chí Minh	10.7129526038581	106.650447453992	1900585885		
+TPBank LiveBank TTTM Satra Bình Chánh (CRM/CDM)	TTTM Satra Phạm Hùng-C6/27 Phạm Hùng, Bình Hưng, phường Bình Hưng quận, Bình Chánh, TP. Hồ Chí Minh, Việt Nam	10.73417	106.67444	1900585885		
+LiveBank Moonlight Bình Tân (CRM/CDM)	Shophouse A26 Chung cư MOONLIGHT, đường số 7, phường An Lạc A, quận Bình Tân, TP.Hồ Chí Minh	10.7517029102839	106.61990311079	1900585885		
+TPBank Bình Tân	Số 57-63 Trần Văn Giàu, phường Bình Trị Đông B, quận Bình Tân, TP.Hồ Chí Minh	10.7516235443055	106.608601438437	1900585885		
+TPBank Gia Định	Số 221-223-225 Bạch Đằng, phường 15, quận Bình Thạnh, TP.Hồ Chí Minh	10.8030920509644	106.70685711626	1900585885		
+LiveBank Circle K D5 Bình Thạnh (CRM/CDM)	Cửa hàng Circle K, số 17 Đường D5, phường 22, quận Bình Thạnh, TP.Hồ Chí Minh	10.8064152234258	106.713905626871	1900585885		
+LiveBank Lê Quang Định Bình Thạnh (CRM/CDM)	Số 427 Lê Quang Định, phường 5, quận Bình Thạnh, TP.Hồ Chí Minh	10.8150166301362	106.689181614751	1900585885		
+LiveBank Chu Văn An Bình Thạnh (CRM/CDM)	Số 139 Chu Văn An, phường 26, quận Bình Thạnh, TP.Hồ Chí Minh	10.8110559909171	106.70692861741	1900585885		
+LiveBank Phan Văn Trị Bình Thạnh (CRM/CDM)	Số 186 Đ. Phan Văn Trị, Phường 11, Bình Thạnh, Hồ Chí Minh, Vietnam	10.812242666892674	106.6952915463043	1900585885		
+LiveBank Xô Viết Nghệ Tĩnh Bình Thạnh (CRM/CDM)	268 Xô Viết Nghệ Tĩnh, P21, Q.Bình Thạnh, Tp.HCM	10.810755626519	106.713314061431	1900585885		
+LiveBank Hoàng Hoa Thám Bình Thạnh (CRM/CDM)	Số 163 Hoàng Hoa Thám, phường 6, quận Bình Thạnh, TP.Hồ Chí Minh	10.8088729547532	106.686672754818	1900585885		
+LiveBank 268 Xô Viết Nghệ Tĩnh Bình Thạnh (CRM/CDM)	Số 268 Xô Viết Nghệ Tĩnh, phường 21, quận Bình Thạnh, TP.Hồ Chí Minh	10.7998609070487	106.711310270672	1900585885		
+LiveBank Nguyễn Văn Lạc Bình Thạnh (CRM/CDM)	Số 60 Nguyễn Văn Lạc, phường 19, quận Bình Thạnh, TP.Hồ Chí Minh	10.7930570627391	106.709049999823	1900585885		
+LiveBank Bình Quới Bình Thạnh (CRM/CDM)	Số 132 Bình Quới, phường 27, quận Bình Thạnh, TP.Hồ Chí Minh	10.8165789847425	106.720011541902	1900585885		
+LiveBank Nguyễn Văn Thương Bình Thạnh (CRM/CDM)	Số 25 Nguyễn Văn Thương, phường 25, quận Bình Thạnh, TP.Hồ Chí Minh	10.8010374141502	106.71852972057	1900585885		
+LiveBank Bùi Hữu Nghĩa Bình Thạnh (CRM/CDM)	Số 253 Bùi Hữu Nghĩa, phường 1, quận Bình Thạnh, TP.Hồ Chí Minh	10.7980770454279	106.698963515142	1900585885		
+LiveBank Đặng Thùy Trâm Bình Thạnh (CRM/CDM)	Số 98a Đặng Thùy Trâm, phường 13, quận Bình Thạnh, TP.Hồ Chí Minh	10.828432541832	106.70313597448	1900585885		
+LiveBank TTTM Satra Củ Chi (CRM/CDM)	Cổng Trung tâm thương mại Satra Củ Chi, ấp Thạnh An, huyện Củ Chi, TP.Hồ Chí Minh	10.9838535276301	106.57890862701	1900585885		
+TPBank Củ Chi	Số 50-52 khu phố 2, TL8, TT. Củ Chi, Củ Chi, Hồ Chí Minh, Vietnam	10.969720246006089	106.48877718210518	1900585885		
+LiveBank Nguyễn Kiệm Gò Vấp (CRM/CDM)	371 Đ. Nguyễn Kiệm, Phường 3, Gò Vấp, Hồ Chí Minh	10.817700284600539	106.6770376809547	1900585885		
+LiveBank Nguyễn Văn Lượng Gò Vấp (CRM/CDM)	Số 243 Nguyễn Văn Lượng, phường 17, quận Gò Vấp, TP.Hồ Chí Minh	10.8384968605097	106.672629588101	1900585885		
+LiveBank Chung cư Z751 Gò Vấp (CRM/CDM)	Chung cư Hà Đô Z751, đường Phan Văn Trị, phường 10, quận Gò Vấp, TP.Hồ Chí Minh	10.8361351201259	106.666413623543	1900585885		
+LiveBank 1060 Quang Trung Gò Vấp (CRM/CDM)	Số 1060 Quang Trung, phường 14, quận Gò Vấp, TP.Hồ Chí Minh	10.8407403046119	106.645840633364	1900585885		
+LiveBank Cây Trâm Gò Vấp (CRM/CDM)	Số 424 Cây Trâm, phường 8, quận Gò Vấp, TP.Hồ Chí Minh	10.8442385050206	106.647387025148	1900585885		
+TPBank Nguyễn Oanh	Số 1, đường Quang Trung, phường 10, quận Gò Vấp, thành phố Hồ Chí Minh, Việt Nam	10.8269165	106.6793122	1900585885		
+LiveBank Phan Huy Ích Gò Vấp (CRM/CDM)	Số 498 Phan Huy Ích, phường 12, quận Gò Vấp, TP.Hồ Chí Minh	10.8441838853027	106.640036488634	1900585885		
+LiveBank Phan Văn Trị Gò Vấp (CRM/CDM)	Số 481 đường Phan Văn Trị, phường 5, quận Gò Vấp, TP.Hồ Chí Minh	10.8231572408745	106.692557912079	1900585885		
+LiveBank Chung cư Khang Gia Gò Vấp (CRM/CDM)	Shophouse Khu C-019 Chung cư Khang Gia, đường số 45, phường 14, quận Gò Vấp, TP.Hồ Chí Minh	10.8435490954112	106.635323482585	1900585885		
+LiveBank Lê Văn Thọ Gò Vấp (CRM/CDM)	Số 13 Đường Lê Văn Thọ, P. 8, Quận Gò Vấp, Tp.HCM	10.8369959611397	106.658151748498	1900585885		
+LiveBank Lê Đức Thọ Gò Vấp (CRM/CDM)	Số 372 Lê Đức Thọ, phường 6, quận Gò Vấp, TP.Hồ Chí Minh	10.841488321303	106.677685915772	1900585885		
+LiveBank 905 Lê Đức Thọ Gò Vấp (CRM/CDM)	Số 905 Lê Đức Thọ, phường 16, quận Gò Vấp, TP.Hồ Chí Minh	10.8505076843177	106.663739686358	1900585885		
+LiveBank Lê Thị Hà Hóc Môn (CRM/CDM)	Số 47 Lê Thị Hà, xã Tân Xuân, huyện Hóc Môn, TP.Hồ Chí Minh	10.8717908345882	106.597152769006	1900585885		
+LiveBank Quang Trung Hóc Môn (CRM/CDM)	Số 31/1 đường Quang Trung, thị trấn Hóc Môn, huyện Hóc Môn, TP.Hồ Chí Minh	10.8884778775543	106.597543041666	1900585885		
+LiveBank Hoàng Anh Gia Lai 3 Nhà Bè (CRM/CDM)	Lô B104, CC Hoàng Anh Gia Lai 3, đường Nguyễn Hữu Thọ, xã Phước Kiển, huyện Nhà Bè, TP.Hồ Chí Minh	10.7202235828375	106.700714981574	1900585885		
+TPBank Nhà Bè	Số 47 khu dân cư Phú Long, Phân Khu Số 8, Đường Nguyễn Hữu Thọ, Ấp 5, xã Phước Kiển, huyện Nhà Bè, TP.Hồ Chí Minh	10.7188960680179	106.70246309986	1900585885		
+TPBank Phan Đăng Lưu	Số 214 Đ. Phan Đăng Lưu, Phường 3, Phú Nhuận, Hồ Chí Minh, Vietnam	10.800748870169706	106.68102811904532	1900585885		
+LiveBank Huỳnh Văn Bánh Phú Nhuận (CRM/CDM)	Số 140 Huỳnh Văn Bánh, Phường 12, Phú Nhuận, Hồ Chí Minh	10.793055533863617	106.67902818835849	1900585885		
+LiveBank Phan Xích Long Phú Nhuận (CRM/CDM)	Số 406 Phan Xích Long, phường 2, quận Phú Nhuận, TP.Hồ Chí Minh	10.7999544125347	106.685152903132	1900585885		
+LiveBank Newton Residence Phú Nhuận (CRM/CDM)	Tầng 1 Chung cư Newton Residence, số 38 Trương Quốc Dung, phường 8, quận Phú Nhuận, TP.Hồ Chí Minh	10.7982142374245	106.672687500285	1900585885		
+LiveBank Thích Quảng Đức Phú Nhuận (CRM/CDM)	Số 53 Thích Quảng Đức, phường 4, quận Phú Nhuận, TP.Hồ Chí Minh	10.804900407248	106.682835828432	1900585885		
+LiveBank Trường Sơn Tân Bình (CRM/CDM)	Cổng Tòa nhà Trực thăng, 39B Trường Sơn, phường 4, quận Tân Bình, TP.Hồ Chí Minh	10.8088094521017	106.664468986113	1900585885		
+TPBank Tân Bình	Số 320, đường Lê Văn Sỹ, phường 1, quận Tân Bình, thành phố Hồ Chí Minh, Việt Nam	10.7970401	106.6647736	1900585885		
+LiveBank Hoàng Hoa Thám Tân Bình (CRM/CDM)	Số 76 Hoàng Hoa Thám, phường 12, quận Tân Bình, TP.Hồ Chí Minh	10.7989834993175	106.647296657408	1900585885		
+LiveBank Kinh Dương Vương Bình Tân (CRM/CDM)	Số 369 Kinh Dương Vương, phường An Lạc , quận Tân Bình, TP.Hồ Chí Minh	10.7421067532496	106.619733381002	1900585885		
+LiveBank Lạc Long Quân Tân Bình (CRM/CDM)	Số 855 Lạc Long Quân, phường 8, quận Tân Bình, TP.Hồ Chí Minh	10.7845844746303	106.650908978101	1900585885		
+LiveBank Trường Chinh Tân Bình (CRM/CDM)	Số 104 Trường Chinh, phường 12, quận Tân Bình, TP.Hồ Chí Minh	10.7943139821337	106.651203235255	1900585885		
+LiveBank Nguyễn Sỹ Sách Tân Bình (CRM/CDM)	Số 2D Nguyễn Sỹ Sách, phường 15, quận Tân Bình, TP.Hồ Chí Minh	10.8186830895467	106.633130041935	1900585885		
+LiveBank Phạm Phú Thứ Tân Bình (CRM/CDM)	Số 2 Phạm Phú Thứ, phường 11, quận Tân Bình, TP.Hồ Chí Minh	10.7885604199742	106.650186125233	1900585885		
+LiveBank Đồng Đen Tân Bình (CRM/CDM)	Số 142 Đồng Đen, phường 14, quận Tân Bình, TP.Hồ Chí Minh	10.7903990228104	106.643305356758	1900585885		
+LiveBank Trương Công Định Tân Bình (CRM/CDM)	Số 66 Trương Công Định, phường 13, quận Tân Bình, TP.Hồ Chí Minh	10.7967202724707	106.641156532953	1900585885		
+TPBank Cửu Long	Số 445, đường Lý Thường Kiệt, phường 8, quận Tân Bình, thành phố Hồ Chí Minh, Việt Nam	10.784516	106.654045	1900585885		
+LiveBank Ni Sư Huỳnh Liên Tân Bình (CRM/CDM)	Số 88A Ni Sư Huỳnh Liên, phường 10, quận Tân Bình, TP.Hồ Chí Minh	10.7873805861979	106.645073500482	1900585885		
+LiveBank Nguyễn Thị Nhỏ Tân Bình (CRM/CDM)	Số 61 Nguyễn Thị Nhỏ, phường 9, quận Tân Bình, TP.Hồ Chí Minh	10.7702852049405	106.652514199517	1900585885		
+LiveBank Celadon Tân Phú (CRM/CDM)	Lô E1.21, Chung cư Celadon, Đ. Tân Thắng, Phường, Tân Phú, Hồ Chí Minh, Vietnam	10.799860534339162	106.61404580831616	1900585885		
+LiveBank Richstar Tân Phú (CRM/CDM)	Khu 2 Chung cư Richstar, đường Hòa Bình, phường Hiệp Tân, quận Tân Phú, TP.Hồ Chí Minh	10.7723549472866	106.625038840182	1900585885		
+LiveBank Tân Sơn Nhì Tân Phú (CRM/CDM)	Số 115 Tân Sơn Nhì, phường Tân Sơn Nhì, quận Tân Phú, TP.Hồ Chí Minh	10.8014822412534	106.633444588712	1900585885		
+LiveBank Aeon Mall Tân Phú (CRM/CDM)	Cửa siêu thị Aeon, Tầng trệt TTTM Aeon Mall Tân Phú, số 30 Bờ Bao Tân Thắng, phường Sơn Kỳ, quận Tân Phú, TP.Hồ Chí Minh	10.8022153655152	106.618217474799	1900585885		
+LiveBank Lê Trọng Tấn Tân Phú (CRM/CDM)	Số 19 đường Lê Trọng Tấn, phường Sơn Kỳ, quận Tân Phú, TP.Hồ Chí Minh	10.8044921471081	106.63177458336	1900585885		
+LiveBank Tân Hương Tân Phú (CRM/CDM)	Số 177 Tân Hương, phường Tân Quý, quận Tân Phú, TP.Hồ Chí Minh	10.7899145433201	106.623560791885	1900585885		
+LiveBank Gò Dầu Tân Phú (CRM/CDM)	Số 46 đường Gò Dầu, phường Tân Quý, quận Tân Phú, TP.Hồ Chí Minh	10.7958284296155	106.627152909455	1900585885		
+LiveBank Nguyễn Sơn Tân Phú (CRM/CDM)	Số 332 đường Nguyễn Sơn, phường Phú Thọ Hòa, quận Tân Phú, TP.Hồ Chí Minh	10.7840162792772	106.623227913727	1900585885		
+LiveBank Vườn Lài Tân Phú (CRM/CDM)	Số 45 Vườn Lài, phường Phú Thọ Hòa, quận Tân Phú, TP.Hồ Chí Minh	10.7871711417725	106.634464271089	1900585885		
+TPBank Tân Phú	Tầng trệt Âu Cơ Tower, số 659 Âu Cơ, phường Tân Thạnh, quận Tân Phú, TP.Hồ Chí Minh	10.7873235	106.6409509	1900585885		
+LiveBank Big C Trường Chinh Tân Phú (CRM/CDM)	Kios số 1S17, tầng 1, TTTM Big C Trường Chinh, số 1/1 đường Trường Chinh,, phường Tây Thạnh, quận Tân Phú, TP.Hồ Chí Minh	10.8061703326269	106.634439119342	1900585885		
+LiveBank FPT Software D1 Quận 9 (CRM/CDM)	F-Town, 3 Đ. D1, P, Quận 9, Hồ Chí Minh	10.83638757918135	106.80708983068952	1900585885		
+LiveBank Đồng Văn Cống Quận 2 (CRM/CDM)	Gian hàng A-1-1-2, khu TTTM tòa nhà The CBD Premium Home, số 125 đường Đồng Văn Cống, phường Thạnh Mỹ Lợi, TP. Thủ Đức, TP.Hồ Chí Minh	10.7742390919061	106.761840968551	1900585885		
+LiveBank Đại học Ngân hàng Thủ Đức (CRM/CDM)	Cổng trường ĐH Ngân hàng, số 56 Hoàng Diệu 2, phường Linh Chiểu, TP. Thủ Đức, TP.Hồ Chí Minh	10.8574371494991	106.763368740634	1900585885		
+LiveBank Intel Quận 9 (CRM/CDM)	Cổng sau Canteen, Công ty Intel, phường Tân Phú, TP. Thủ Đức, TP.Hồ Chí Minh	10.855190139661	106.797123801996	1900585885		
+LiveBank Sunview Town Thủ Đức (CRM/CDM)	Cổng chung cư Sunview Town, đường Gò Dưa, phường  Hiệp Bình Phước, TP. Thủ Đức, TP.Hồ Chí Minh	10.8659415030222	106.727909789379	1900585885		
+LiveBank Suối Tiên Quận 9 (CRM/CDM)	Cổng Khu Du lịch Văn hóa Suối Tiên, số 120 Xa lộ Hà Nội, phường Tân Phú, TP. Thủ Đức, TP.Hồ Chí Minh	10.8662146332021	106.802933593665	1900585885		
+LiveBank Liên Phường Quận 9 (CRM/CDM)	Số 440 Liên Phường, phường Phướng Long B, TP. Thủ Đức, TP.Hồ Chí Minh	10.8061544030902	106.789468855264	1900585885		
+LiveBank The Art Gia Hòa Quận 9 (CRM/CDM)	Tầng trệt Block C2, Chung cư The Art Gia Hòa, 532A Đỗ Xuân Hợp, phường Phươc Long B, TP. Thủ Đức, TP.Hồ Chí Minh	10.8155848234567	106.777673951791	1900585885		
+TPBank Quận 11	Số 184 Lê Đại Hành, phường 15, quận 11, TP.Hồ Chí Minh	10.7641926458002	106.655993421592	1900585885		
+LiveBank FTown 3 Quận 9 (CRM/CDM)	F-Town, 3 Đ. D1, P, Quận 9, Hồ Chí Minh	10.83600822822867	106.80708983068952	1900585885		
+TPBank Quận 9	Số 18 đường 270A (270 Đỗ Xuân Hợp), phường Phước Long A, TP. Thủ Đức, TP.Hồ Chí Minh	10.8232502444038	106.76943252275	1900585885		
+LiveBank Tô Ngọc Vân Thủ Đức (CRM/CDM)	Số 278 Tô Ngọc Vân, phường Linh Đông, TP. Thủ Đức, TP.Hồ Chí Minh	10.8586795344859	106.748737635365	1900585885		
+LiveBank Đại học FPT Quận 9 (CRM/CDM)	ĐH FPT KCNC, P.Long Thạnh Mỹ, Q.9.HCM  	10.8414266290214	106.810057128933	1900585885		
+LiveBank Nguyễn Thị Nhung Thủ Đức (CRM/CDM)	Số 97 Nguyễn Thị Nhung, phường Hiệp Bình Phước, TP. Thủ Đức, TP.Hồ Chí Minh	10.8435813278314	106.713201771784	1900585885		
+LiveBank Tăng Nhơn Phú Quận 9 (CRM/CDM)	127A3 Tăng Nhơn Phú, Phước Long B, Quận 9, Hồ Chí Minh, Vietnam	10.83240571172157	106.77412027935688	1900585885		
+LiveBank Safira Khang Điền Quận 9 (CRM/CDM)	Shophouse D1.01.09.TM, chung cư Safira Khang Điền, phường Phú Hữu, TP. Thủ Đức, TP.Hồ Chí Minh	10.8015373594209	106.793473491014	1900585885		
+LiveBank Kha Vạn Cân Thủ Đức (CRM/CDM)	Số 948 Kha Vạn Cân, phường Trường Thọ, TP. Thủ Đức, TP.Hồ Chí Minh	10.8496017280805	106.753924727157	1900585885		
+LiveBank Vinhomes Grand Park Quận 9 (CRM/CDM)	Tòa S2020-Căn 1S02-KĐT Vinhomes Grand Park, Phường Long Thạnh Mỹ, Quận 9, Tp.HCM	10.8386419787867	106.8316110986	1900585885		
+LiveBank Đại lộ 2 Quận 9 (CRM/CDM)	Số 41 Đại lộ 2, phường Phước Bình, TP. Thủ Đức, TP.Hồ Chí Minh	10.817415197042	106.772574142957	1900585885		
+LiveBank Bình Chiểu Thủ Đức (CRM/CDM)	Số 15 Bình Chiểu, phường Bình Chiểu, TP. Thủ Đức, TP.Hồ Chí Minh	10.8734254207952	106.732720411687	1900585885		
+LiveBank 698 Nguyễn Duy Trinh Quận 2 (CRM/CDM)	Số 698 Nguyễn Duy Trinh, phường Bình Trưng Đông, TP. Thủ Đức, TP.Hồ Chí Minh	10.7896246020877	106.779753328819	1900585885		
+LiveBank Bình An Quận 2 (CRM/CDM)	Số 33 đường số 3, phường Bình An, TP. Thủ Đức, TP.Hồ Chí Minh	10.7953402676874	106.734183399435	1900585885		
+LiveBank Man Thiện Quận 9 (CRM/CDM)	Số 53 Man Thiện, phường Hiệp Phú, TP. Thủ Đức, TP.Hồ Chí Minh	10.8464145844738	106.786682728589	1900585885		
+LiveBank Nguyễn Cơ Thạch Thủ Đức (CRM/CDM)	Số 109 Nguyễn Cơ Thạch, phường An Lợi Đông, TP.Thủ Đức, TP.Hồ Chí Minh	10.7699427841519	106.724205042282	1900585885		
+LiveBank Linh Trung Thủ Đức (CRM/CDM)	Số 132 Linh Trung, phường Linh Trung, TP.Thủ Đức, TP.Hồ Chí Minh	10.8603731477645	106.773317728474	1900585885		
+TPBank Quận 1	Số 75 &ndash; 77 Nguyễn Thái Bình, phường Nguyễn Thái Bình, quận 1, TP.Hồ Chí Minh	10.7694271928638	106.69986620176	1900585885		
+LiveBank Điện Biên Phủ Quận 1 (CRM/CDM)	Số 82 Điện Biên Phủ, phường Đa Kao, quận 1, TP.Hồ Chí Minh	10.7902803531435	106.697263398793	1900585885		
+LiveBank Phạm Ngũ Lão Quận 1 (CRM/CDM)	Số 275a Phạm Ngũ Lão, phường Phạm Ngũ Lão, quận 1, TP.Hồ Chí Minh	10.7681851404347	106.692095874516	1900585885		
+LiveBank Hàm Nghi Quận 1 (CRM/CDM)	Chân tòa nhà Ruby Tower, số 81-83-85 Hàm Nghi, phường Nguyễn Thái Bình, quận 1, TP.Hồ Chí Minh	10.7747153845681	106.683585828552	1900585885		
+LiveBank Trần Quang Khải Quận 1 (CRM/CDM)	Số 127C Trần Quang Khải, phường Tân Định, quận 1, TP.Hồ Chí Minh	10.7918889629726	106.691907542045	1900585885		
+TPBank An Giang	Tòa nhà 204 &ndash; 204A Trần Hưng Đạo, phường Mỹ Bình, thành phố Long Xuyên, tỉnh An Giang	10.3852079551478	105.436024136165	1900585885		
+LiveBank Hà Hoàng Hổ Long Xuyên (CRM/CDM)	Số 23 Hà Hoàng Hổ, phường Mỹ Xuyên, TP.Long Xuyên, tỉnh An Giang	10.3786438515194	105.438610930104	1900585885		
+TPBank Bắc Giang	Tầng 1, tầng 4 tòa nhà TNL Plaza Bắc Giang, số 8 Nguyễn Văn Cừ, P, Bắc Giang	21.2761655342593	106.195060324682	1900585885		
+LiveBank Trần Phú Từ Sơn (CRM/CDM)	83 Đ. Trần Phú, TX. Từ Sơn, Từ Sơn, Bắc Ninh, Vietnam	21.11915862339479	105.96206854020076	1900585885		
+TPBank Bắc Ninh	302 Trần Hưng Đạo, phường Đại Phúc, TP.Bắc Ninh, tỉnh Bắc Ninh	21.1769574	106.0731758	1900585885		
+TPBank Từ Sơn	Số 327-329-331 Trần Phú, phường Đình Bảng, TP.Từ Sơn, tỉnh Bắc Ninh	21.1124471982618	105.95002483555	1900585885		
+LiveBank Trần Hưng Đạo Quy Nhơn (CRM/CDM)	Số 503 Trần Hưng Đạo, phường Lê Hồng Phong, TP.Quy Nhơn, tỉnh Bình Định	13.7784431206005	109.226428756901	1900585885		
+TPBank Bình Định	Số 200&ndash;202 Phan Bội Châu, phường Trần Hưng Đạo, TP.Quy Nhơn, tỉnh Bình Định	13.7757447043943	109.230051959041	1900585885		
+LiveBank KCN Rạch Bắp Bình Dương (CRM/CDM)	Công ty CP Giày Đại Lộc, Lô G5, Khu B2, Đường D10, Khu công nghiệp Rạch Bắp, xã An Tây, tỉnh Bình Dương	11.1373634	106.5433329	1900585885		
+LiveBank Đông Hòa Dĩ An (CRM/CDM)	TTTM GO!, Quốc lộ 1K, Đông Hòa, Dĩ An, Bình Dương	10.923960743174506	106.8050255957969	1900585885		
+TPBank Bình Dương	Số 273-275 Đại lộ Bình Dương, phường Chánh Nghĩa, TP.Thủ Dầu Một, tỉnh Bình Dương	10.9745190248454	106.670006019867	1900585885		
+LiveBank Phú Lợi Bình Dương (CRM/CDM)	Số 80c Phú Lợi, phường Phú Hòa, TP.Thủ Dầu Một, tỉnh Bình Dương	10.982200780851	106.669051766719	1900585885		
+LiveBank Tôn Đức Thắng Phan Thiết (CRM/CDM)	Số 266 Tôn Đức Thắng, phường Xuân An, TP.Phan Thiết, tỉnh Bình Thuận	10.9359197108505	108.111395478952	1900585885		
+LiveBank Trần Văn Khéo Cần Thơ (CRM/CDM)	Số 97 Trần Văn Khéo, phường Cái Khế, quận Ninh Kiều, TP.Cần Thơ	10.0449969913659	105.784734548677	1900585885		
+TPBank Cần Thơ	Số 135 Trần Hưng Đạo, phường An Phú, quận Ninh Kiều, TP.Cần Thơ	10.0357832	105.6934016	1900585885		
+TPBank Bắc Cần Thơ	Số 1A đường 30/4, P. Xuân Khánh, Q. Ninh Kiều, TP. Cần Thơ	10.023788	105.7734574	1900585885		
+LiveBank FPT Complex Đà Nẵng (CRM/CDM)	Sảnh Tòa nhà FPT Complex, Đường Nam Kỳ Khởi Nghĩa, phường Hòa Hải, quận Ngũ Hành Sơn, TP.Đà Nẵng	15.9792892970149	108.261888452997	1900585885		
+TPBank Đà Nẵng	271 Đ. Nguyễn Văn Linh, Vĩnh Trung, Thanh Khê, Đà Nẵng 550000	16.05977669807912	108.21194391205916	1900585885		
+LiveBank Hoàng Diệu Đà Nẵng (CRM/CDM)	Số 475 Hoàng Diệu, phường Hòa Thuận Đông, quận Hải Châu, TP.Đà Nẵng	16.0528960096363	108.217654463717	1900585885		
+LiveBank Núi Thành Đà Nẵng (CRM/CDM)	Số 378 Núi Thành, phường Hòa Cường Bắc, quận Hải Châu, TP.Đà Nẵng	16.0394107962645	108.221893953835	1900585885		
+LiveBank Hoàng Văn Thái Đà Nẵng (CRM/CDM)	Số 5 Hoàng Văn Thái, phường Hòa Khánh Nam, quận Liên Chiểu, TP.Đà Nẵng	16.056543	108.1662818	1900585885		
+TPBank Bắc Đà Nẵng	Số 353 Điện Biên Phủ, phường Hòa Khê, quận Thanh Khê, TP.Đà Nẵng	16.0656336566802	108.190556346494	1900585885		
+LiveBank Tôn Đức Thắng Đà Nẵng (CRM/CDM)	681 Tôn Đức Thắng, Hoà Khánh Nam, Liên Chiểu, Đà Nẵng 550000	16.06961331366403	108.15117931692009	1900585885		
+LiveBank Quang Trung Đà Nẵng (CRM/CDM)	Số 178 Quang Trung, phường Thanh Bình, quận Hải Châu, TP.Đà Nẵng	16.0735465962396	108.213592442858	1900585885		
+LiveBank Trần Phú Daklak (CRM/CDM)	Số 177 Trần Phú, phường Thành Công, TP.Buôn Ma Thuột, tỉnh Đắk Lắk	12.6849993628165	108.0376486262	1900585885		
+TPBank Buôn Ma Thuột	Số 71-73 Lý Thái Tổ, phường Tân Lợi, TP.Buôn Ma Thuột, tỉnh Đắk Lắk	12.6975685308765	108.058310958584	1900585885		
+TPBank Biên Hòa	Số 97 Đường Ba Mươi Tháng Tư, Trung Dũng, Biên Hòa, Đồng Nai	10.951703365603358	106.82028030551449	1900585885		
+LiveBank Phạm Văn Thuận Biên Hòa (CRM/CDM)	Số 486 Phạm Văn Thuận, phường Tam Hiệp, TP.Biên Hòa, tỉnh Đồng Nai	10.9447210397499	106.857835263944	1900585885		
+TPBank Đồng Nai	Số 262 Phạm Văn Thuận, phường Thống Nhất, TP.Biên Hòa, tỉnh Đồng Nai	10.9581469178723	106.838604728426	1900585885		
+LiveBank Trần Phú Pleiku (CRM/CDM)	Số 08 đường Trần Phú, phường Tây Sơn, TP.Pleiku, tỉnh Gia Lai	13.9783351188571	107.999569233662	1900585885		
+LiveBank Phạm Ngũ Lão Hải Dương (CRM/CDM)	Số 75 Phạm Ngũ Lão, phường Lê Thanh Nghị, TP.Hải Dương, tỉnh Hải Dương	20.9373424025579	106.324699424903	1900585885		
+TPBank Tô Hiệu	Chung cư Hoàng Huy Commerce, Tòa nhà H1, Võ Nguyên Giáp, Kênh Dương, Lê Chân, Hải Phòng 180000, Vietnam	20.828133624536477	106.68598166852513	1900585885		
+TPBank Ngô Quyền	Căn SO01 tháp A tòa Diamond Crown Hải Phòng &ndash; lô số 01/8B ngã 4 Cầu Vượt Lê Hồng Phong &ndash; Nguyễn Bỉnh Khiêm, Hải Phòng.	20.8455901	106.706983	1900585885		
+LiveBank Aeon Mall Hải Phòng (CRM/CDM)	Khu ATM, tầng 1 TTTM Aeon Mall Hải Phòng, số 10 đường Võ Nguyên Giáp, phường Dư Hàng Kênh, quận Lê Chân, TP.Hải Phòng	20.8323149776311	106.681878680648	1900585885		
+LiveBank Thống Nhất Nha Trang (CRM/CDM)	Số 306 Thống Nhất, phường Phương Sơn, TP.Nha Trang, tỉnh Khánh Hòa	12.2497538718731	109.18274661264	1900585885		
+TPBank Nam Khánh Hòa	Số 48 đường A4, khu đô thị VCN, phường Phước Hải, TP.Nha Trang, tỉnh Khánh Hòa.	12.2356787524327	109.178874114131	1900585885		
+TPBank Nha Trang	Số 79 Yersin, phường Phương Sài, TP.Nha Trang, tỉnh Khánh Hòa	12.24934256485	109.186253855365	1900585885		
+TPBank Phú Quốc	Số 87 Nguyễn Trung Trực, thị trấn Dương Đông, huyện Phú Quốc, tỉnh Kiên Giang	10.2218888443527	103.962047317866	1900585885		
+TPBank Kiên Giang	Số 154 &ndash; 156 - 158 Trần Phú, phường Vĩnh Thanh Vân, TP.Rạch Giá, tỉnh Kiên Giang	10.0109636	105.0823171	1900585885		
+LiveBank Phan Thị Ràng Kiên Giang (CRM/CDM)	P11-13 đường Phan Thị Ràng, phường An Hòa, TP.Rạch Giá, tỉnh Kiên Giang	9.96945961791256	105.105867925288	1900585885		
+LiveBank Ba Tháng Hai Đà Lạt (CRM/CDM)	Số 127 Đường 3/2, phường 1, TP.Đà Lạt, tỉnh Lâm Đồng	11.9411650584663	108.431656609972	1900585885		
+LiveBank Nguyễn Công Trứ Đà Lạt (CRM/CDM)	Số 114 Nguyễn Công Trứ, phường 8, TP.Đà Lạt, tỉnh Lâm Đồng	11.9564489220961	108.439424802999	1900585885		
+TPBank Lào Cai	 Số 144 Hoàng Liên, phường Cốc Lếu, TP.Lào Cai, tỉnh Lào Cai	22.4950007561354	103.96822187843	1900585885		
+LiveBank Nguyễn Hữu Thọ Bến Lức (CRM/CDM)	Số 251 Nguyễn Hữu Thọ, thị xã Bến Lức, tỉnh Long An	10.643363320278	106.484507885638	1900585885		
+TPBank Vinh	TPBank Vinh đại lộ, 168 V.I. Lê Nin, Nghi Phan, Vinh, Nghệ An, Vietnam	18.69522052779763	105.68693741473359	1900585885		
+TPBank Nghệ An 	Handico 30, Nghệ An	18.676217239139646	105.67481680021018	1900585885		
+TPBank Quảng Ngãi	Số 698A-700 Quang Trung, phường Chánh Lộ, TP.Quảng Ngãi, tỉnh Quảng Ngãi	15.1156054492269	108.807396803556	1900585885		
+LiveBank Sapphire Hạ Long (CRM/CDM)	Cổng chung cư Sapphire Residence, Số 1 Bến Đoan, phường Hồng Gai, TP.Hạ Long, tỉnh Quảng Ninh	20.9519871988239	107.070511002066	1900585885		
+TPBank Thái Nguyên	70 Hoàng Văn Thụ, phường Hoàng Văn Thụ, TP.Thái Nguyên, tỉnh Thái Nguyên	21.592115725622605	105.8330683304945	1900585885		
+TPBank Phổ Yên	Số 134 Trường Chinh, phường Ba Hàng, TP.Thị xã Phổ Yên, tỉnh Thái Nguyên	21.4099492179207	105.872472885064	1900585885		
+TPBank Thanh Hóa	Lô số 13 + 14 Phan Chu Trinh, phường Điện Biên, TP.Thanh Hóa, tỉnh Thanh Hóa	19.8121036316811	105.774295982529	1900585885		
+TPBank Lam Sơn	Số 317-321 đường Trần Phú, phường Ba Đình, TP.Thanh Hóa, tỉnh Thanh Hóa	19.799248	105.7766776	1900585885		
+LiveBank Nguyễn Thái Học Vũng Tàu (CRM/CDM)	Số 131 Nguyễn Thái Học , phường 7, TP. Vũng Tàu, tỉnh Bà Rịa - Vũng Tàu	10.3661408230001	107.083942911958	1900585885		
+TPBank Vũng Tàu	Tầng 1 tòa nhà Vũng Tàu Plaza, 207 Lê Hồng Phong, phường 8, TP.Vũng Tàu, tỉnh Bà Rịa - Vũng Tàu	10.3518380333519	107.089180344734	1900585885		
+LiveBank Thủy Nguyên Ecopark (CRM/CDM)	MRA186 Thủy Nguyên, KĐT Ecopark 2, xã Xuân Quan, huyện Văn Giang, tỉnh Hưng Yên	20.9491830698829	105.934424934359	1900585885		
+TPBank Ninh Bình	Số 107-109 Đinh Tiên Hoàng, phường Đông Thành, TP.Ninh Bình, tỉnh Ninh Bình	20.261646280577	105.97466328015	1900585885		
+LiveBank Quang Trung Quảng Ngãi (CRM/CDM)	Số 698A và một phần tầng 1 nhà số 700, Quang Trung, phường Chánh Lộ, thành phố Quảng Ngãi, tỉnh Quảng Ngãi 	15.1155153	108.8047284	1900585885		
+LiveBank Nguyễn Huệ TP Huế (CRM/CDM)	25 Nguyễn Huệ, Vĩnh Ninh, Huế, Thừa Thiên Huế, Vietnam	16.45740000956434	107.5848641752203	1900585885		
+TPBank Vĩnh Phúc	Số 105 + 107 đường Mê Linh, phường Liên Bảo, thành phố Vĩnh Yên, tỉnh Vĩnh Phúc	21.3144572	105.6016297	1900585885		
+TPBank Nam Sài Gòn	L1-06 và L1-13,14,15 tầng 1 chung cư cụm III,IV &ndash; đường 09, khu dân cư Trung Sơn xã Bình Hưng, huyện Bình Chánh TP.Hồ Chí Minh	10.733449438253484	106.68936828835852	1900585885		
+TPBank Bình Phước	Số Lô 21-22 Quốc Lộ 14, phường Tân Thiện, TP.Đồng Xoài, tỉnh Bình Phước	11.5402711953325	106.917301386403	1900585885		
+TPBank Lâm Đồng	Số 1 Đường 3/4, phường 3, TP.Đà Lạt, tỉnh Lâm Đồng	11.9343302891839	108.445640699492	1900585885		
+TPBank Thốt Nốt	166-168 Quốc lộ 91, khu vực, Phụng Thạnh 1, Thốt Nốt, Cần Thơ	10.2678777565739	105.537081142118	1900585885		
+TPBank Buôn Hồ	Số 625 Hùng Vương, phường An Lạc, thị xã Buôn Hồ, tỉnh Daklak	12.9103941818804	108.266411970772	1900585885		
+TPBank Hải Phòng	Số 38 Đinh Tiên Hoàng, Phường Hoàng Văn Thụ, Quận Hồng Bàng, TP. Hải Phòng	20.8601372630277	106.682058137479	1900585885		
+TPBank Gò Vấp	255A27 Nguyễn Văn Lượng, phường 10, quận Gò Vấp, TP. HCM	10.8384580860499	106.668968530156	1900585885		
+TPBank Thái Bình	Tầng 1, TTTM Victory, số 392 Lý Bôn, P.Trần Hưng Đạo, TP Thái Bình	20.450158	106.334511	1900585885		
+TPBank Nam Từ Liêm	Tầng 1 &ndash; SH 15 &ndash; ĐN 6 tòa nhà Chung cư CT5 Khu đô Thị Mỹ Đình &ndash; Mễ trì, Nam Từ Liêm, Hà Nội, Việt Nam	21.019132679783507	105.78108284993961	1900585885		
+TPBank Hoàn Kiếm	38-40 P. Hàng Da, Hàng Bông, Hoàn Kiếm, Hà Nội 100000	21.031555371296367	105.84669264602667	1900585885		
+TPBank Hà Nội	Tòa nhà TĐL, Số 22 Láng Hạ, Đống Đa, Hà Nội 	21.0159037	105.8115976	1900585885		
+TPBank Thăng Long	Số 129-131 Hoàng Quốc Việt, Cầu Giấy, Hà Nội	21.045963	105.800815	1900585885		
+TPBank Ba Đình	Số 11 Nguyễn Biểu	21.04231	105.840247	1900585885		
+TPBank Tây Hà Nội	Số 535 Kim Mã, Phường Ngọc Khánh	21.0293692	105.8102219	1900585885		
+TPBank Hà Đông	Khu đấu giá đất, Tân Triều, Hà Nội	20.9706582	105.7836953	1900585885		
+TPBank Chiến Thắng	139E+G Đường Chiến Thắng	20.980538	105.79513	1900585885		
+TPBank Bình Chánh	A22/5 Quốc lộ 50, xã Bình Hưng	10.726093	106.656082	1900585885		
+TPBank Bình Thạnh	Số 81 Xô Viết Nghệ Tĩnh, Phường 17	10.793704	106.708088	1900585885		
+TPBank Hóc Môn	1/1- 1/2 Nguyễn Ảnh Thủ, Xã Trung Chánh, TP Hồ Chí Minh	10.862632	106.611954	1900585885		
+TPBank Đô Thành	Số 93-95 Nguyễn Cư Trinh, Quận 1	10.763637	106.689727	1900585885		
+TPBank Tây Sài Gòn	Số 290 Lãnh Bình Thăng, Phường 11	10.7642647	106.646058	1900585885		
+TPBank Quận 4	Số 9-11 Hoàng Diệu, Phường 12	10.764762	106.706862	1900585885		
+TPBank Sài Gòn	166 Đ. Lê Hồng Phong, Phường 3, Quận 5, Thành phố Hồ Chí Minh	10.7585338	106.677974	1900585885		
+TPBank Phú Mỹ Hưng	 960 - 962 Nguyễn Văn Linh, Phường Tân Phong, Quận 7, Thành phố Hồ Chí Minh, Việt Nam	10.729306	106.708234	1900585885		
+TPBank Cộng Hòa	Số 73, đường Cộng Hòa, phường 4, Tân Bình, thành phố Hồ Chí Minh, Việt Nam	10.800919	106.655551	1900585885		
+TPBank Hải Châu	460 Nguyễn Hữu Thọ, Khuê Trung, Hải Châu, Đà Nẵng 40503, Vietnam	16.03046525024781	108.20840733878225	1900585885		
+TPBank Dĩ An	Số 15 Đường số 9, Khu TT Hành Chính, phường Dĩ An, TP.Dĩ An, tỉnh Bình Dương	10.8913977	106.7628144	1900585885		
+TPBank Quảng Ninh	Tầng 1 tòa nhà Hạ Long DC, Số 8 đường 25/4, Phường Hồng Gai	20.952027	107.078906	1900585885		
+TPBank Cẩm Phả	749-751 Trần Phú, Cẩm Thu, Cẩm Phả, Quảng Ninh	21.009836	107.263747	1900585885		
+TPBank Nam Định	Số 91 Quang Trung, Phường Quang Trung	20.430802	106.175108	1900585885		
+TPBank Tiền Giang	119A Nam Kỳ Khởi Nghĩa, Phường 4, Thành phố Mỹ Tho, Tiền Giang	10.358804	106.361711	1900585885		
+TPBank TP. Thủ Đức	Số 190 đường Đặng Văn Bi, Phường Bình Thọ	10.848266	106.759757	1900585885		
+TPBank Quảng Nam	Số 152 Phan Châu Trinh, Phường Phước Hòa, Tam Kỳ, Quảng Nam, Vietnam	15.570747877343683	108.48600956204726	1900585885		
+TPBank Đắk Lắk	Số 56 - 58, Y Jút, phường Tân Tiến, thành phố Buôn Ma Thuột, tỉnh Đắk Lắk	12.68064816388194	108.04311673068801	1900585885		
+TPBank Đông Hà Nội	HD09 Vinhomes Ocean Park, Trâu Quỳ, Gia Lâm, Hà Nội	21.00163108496579	105.94194109677072	1900585885		
+LiveBank Metro Cát Linh (CRM/CDM)	Ga đường sắt Cát Linh, số 192 Hào Nam, phường Cát Linh, quận Đống Đa, TP.Hà Nội	21.0289785913009	105.827180962368	1900585885		
+LiveBank Mỹ Hiệp Tân Uyên (CRM/CDM)	Cổng công ty Cự Hùng, khu phố Mỹ Hiệp, phường Thái Hòa, thị xã Tân Uyên, tỉnh Bình Dương	10.9702709544749	106.751461443591	1900585885		
+LiveBank Trần Hưng Đạo Nam Định (CRM/CDM)	Số 91 Trần Hưng Đạo, phường Trần Hưng Đạo, TP.Nam Định, tỉnh Nam Định	20.4244941812377	106.17666762888	1900585885		
+TPBank Hội An	Số 500 đường Hai Bà Trưng, phường Tân An, TP.Hội An, tỉnh Quảng Nam	15.8897806396357	108.328709043886	1900585885		
+TPBank Tân Xuân	22/5 Lê Thị Hà, Thới Tam Thôn, Hóc Môn, TP. Hồ Chí Minh	10.8736533	106.5942237	1900585885		
+LiveBank Tây Thạnh Tân Phú (CRM/CDM)	Số 53 đường S11, phường Tây Thạnh, quận Tân Phú, TP.Hồ Chí Minh	10.813800835581254	106.62091356086752	1900585885		
+LiveBank Tân Chánh Hiệp Quận 12 (CRM/CDM)	6A Tân Chánh Hiệp 18, Tân Chánh Hiệp, Quận 12, Hồ Chí Minh, Vietnam	10.866138355693053	106.61664500128934	1900585885		
+TPBank Thuận An	Số A1.03- A1.04 Khu nhà ở Thương mại Phú Hồng Phát, Đường 22 tháng 12, Phường Thuận Giao, Thành phố Thuận An, Tỉnh Bình Dương	10.9487828	106.7150279	1900585885		
+TPBank Bắc Sài Gòn	49 - 51 Nguyễn Thị Nhung, khu nhà ở Vạn Phúc, phường Hiệp Bình Phước, thành phố Thủ Đức, thành phố Hồ Chí Minh	10.8426022	106.7146626	1900585885		
+TPBank Đông Sài Gòn	Số 62 đường Lương Định Của, phường An Khánh, TP. Thủ Đức, TP.Hồ Chí Minh	10.790725523499368	106.74265356886133	1900585885		
+LiveBank Đại học FPT Đà Nẵng (CRM/CDM)	Đại học FPT, Khu đô thị FPT City, phường Hòa Hải, quận Ngũ Hành Sơn, TP.Đà Nẵng	15.968551294681754	108.26036444069138	1900585885		
+LiveBank Nguyễn Văn Thoại Đà Nẵng	Số 94 Nguyễn Văn Thoại, phường Bắc Mỹ An, quận Ngũ Hành Sơn, TP.Đà Nẵng	16.054571877885483	108.24078757086997	1900585885		
+TPBank Cần Giờ	Số 61 Đường Đào Cữ, thị trấn Cần Thạnh, huyện Cần Giờ, TP.Hồ Chí Minh	10.414710285213955	106.97184367090728	1900585885		
+TPBank Long Khánh	145 Hùng Vương , KP1, P.Xuân Hòa, TP.Long Khánh	10.926883318323549	107.24154735031591	1900585885		
+TPBank Hải Hậu	Số 42 Khu 1 Thị Trấn Yên Định, Huyện Hải Hậu, Tỉnh Nam Định	20.198755746486974	106.30134463932612	1900585885		
+TPBank Uông Bí	tờ bản đồ QH, Khu dân cư tự xây Khu 8, Uông Bí, Quảng Ninh, Vietnam	21.034473077413917	106.771999127726	1900585885		
+TPBank Diễn Châu	Số 23 khối 4, thị trấn Diễn Châu, tỉnh Nghệ An	18.9754567	105.601033	1900585885		
+TPBank Huế	Số 78 Bến Nghé, phường Phú Hội, TP Huế, tỉnh Thừa Thiên Huế	16.46395055	107.5946429	1900585885		
+TPBank Đông Kinh	Tầng 1, tòa HC Golden City, phố Hồng Tiến, phường Bồ Đề, quận Long Biên, Hà Nội	21.06200998	105.8964986	1900585885		
+TPBank Châu Đốc	46 Trưng Nữ Vương, P.Châu Phú B, TP.Châu Đốc, An Giang	10.70714423	105.1184418	1900585885		
+LiveBank Đại học Nha Trang (CRM/CDM)	Ký túc xá Đại học Nha Trang, 7692+ MGQ, Đ. Nguyễn Đình Chiểu, P, Nha Trang, Khánh Hòa, Vietnam	12.269892874520677	109.20246675932982	1900585885		
+TPBank Bạch Đằng	Số 1-55H/1, đường Nguyễn Ảnh Thủ, KP3, quận 12, thành phố Hồ Chí Minh, Việt Nam	10.8800797	106.6354661	1900585885		
+TPBank Nghi Sơn	Tầng 1, 235 Lê Hoàn, Phường Ba Đình, TP Thanh Hóa, Tỉnh Thanh Hóa	19.80393576198161	105.77896710000235	1900585885		
+LiveBank Thoại Ngọc Hầu Tân Phú (CRM/CDM)	Số 13 Thoại Ngọc Hầu, phường Hòa Thạnh, quận Tân Phú, TP.Hồ Chí Minh	10.7841334200004	106.639299089092	1900585885		
+TPBank Long An	Số 127-129 Hùng Vương (nối dài), phường 6, TP.Tân An, tỉnh Long An	10.5453365174668	106.400962836165	1900585885		
+LiveBank Diên Hồng Quy Nhơn (CRM/CDM)	334B Diên Hồng, Quy Nhơn, Bình Định			1900585885		
+TPBank Vĩnh Hải	686 Đường 2/4 , TP Nha Trang , Khánh Hòa	109.197903	12.272087			
+TPBank Quế Võ	Số 69 khu 1, TT. Phố Mới, Quế Võ, Bắc Ninh, Vietnam	21.15370152409984	106.1483689372342	1900585885		
+TPBank Hà Nam	Số 222 Lê Hoàn, phường Hai Bà Trưng, TP. Phủ Lý, tỉnh Hà Nam	20.5378758	105.9098147	1900 585885		
+TPBank Trung Kính	110 P. Trung Kính, Yên Hoà, Cầu Giấy, Hà Nội	21.0167282	105.7942532	1900585885		
+LiveBank Long Khánh (CRM/CDM)	145 Hùng Vương, Khu phố 1, Long Khánh, Đồng Nai, Vietnam	10.926845937825096	107.24164391829565	1900585885		
+LiveBank Thốt Nốt (CRM/CDM)	Số 166 - 168 Quốc lộ 91, khu vực Phụng Thạnh 1, phường Thốt Nốt, quận Thốt Nốt, TP Cần Thơ			1900585885		
+TPBank Tây Ninh	Số 358-360-362, đường 30 tháng 4, phường 3, thành phố Tây Ninh, tỉnh Tây Ninh, Việt Nam	11.3156951	106.095406	1900585885		
+TPBank Đông Anh	231 Tổ 3, Phủ Lỗ, Đông Anh, Hà Nội	21.134939850119427	105.84411700943629	1900585885		
+TPBank Bắc Thăng Long	326 Đ. Phạm Văn Đồng, Phường, Bắc Từ Liêm, Hà Nội	21.0589422	105.7801953	1900585885		
+TPBank Hoài Đức	Lô số A38-NV16, ô.01-02-03, Khu A, Khu đô thị mới Lê Trọng Tấn-Gelexinco, xã An Khánh, huyện Hoài Đức, Thành phố Hà Nội	20.9976276	105.7119647	1900585885		
+TPBank Quận 2	Tòa nhà HQ Tower, 201 Đ. Trần Não, khu phố 10, Thủ Đức, Hồ Chí Minh 700000, Việt Nam	10.787456332965318	106.72978396931825	1900585885		
+TPBank Quận 9	18 Đường 270, Phước Long A, TP Thủ Đức, Hồ Chí Minh, Việt Nam	10.7866777	106.6798925	1900585885		
+LiveBank Co.OpMart Túy Lý Vương (CRM/CDM)	40-54 Túy Lý Vương, Phường 13, Quận 8, TP. HCM	10.7441485	106.6502844	1900585885		
+LiveBank CO-OpMart Bến Lức (CRM/CDM)	61 QL1A, khu phố 4, Bến Lức, Long An, Vietnam	10.637549611601242	106.48370383108566	1900585885		
+LiveBank Tam Cốc (CRM/CDM)	Đội 1 Văn Lâm, Ninh Hải, Hoa Lư, Ninh Bình, Vietnam	20.221325601006185	105.90765527583136	1900585885		
+TPBank Trung Tâm Bán Hạ Long	Tầng 12B Tòa nhà Hạ Long DC, số 8 đường 25/4 phường Hồng Gai, TP Hạ Long, Quảng Ninh	20.951864534880766	107.07900748743023	1900585885		
+TPBank Trung Tâm Bán Bắc Giang	Tầng 4 tòa nhà TNL Plaza Bắc Giang, Số 8, Đường Nguyễn Văn Cừ, Phường Trần Phú, TP Bắc Giang, Tỉnh Bắc Giang	21.020672	105.8537472	1900585885		
+TPBank Trung Tâm Bán Miền Trung	Số 271 Nguyễn Văn Linh, phường Vĩnh Trung, quận Thanh Khê, TP. Đà Nẵng	16.0597327	108.1295159	1900585885		
+LiveBank Ba Đình (CRM/CDM)	Số 11 phố Nguyễn Biểu, Phường Quán Thánh, quận Ba Đình, Thành phố Hà Nội	21.0418197	105.8374921	1900585885		
+LiveBank Vĩnh Phúc (CRM/CDM)	107 Đ. Mê Linh, P, Vĩnh Yên, Vĩnh Phúc, Vietnam	21.314137979378366	105.6023829237397	1900585885		
+TPBank Quảng Bình	Số 257 Trần Hưng Đạo, TP Đồng Hới, Quảng Bình	17.4678578	106.6040047	1900585885		
+LiveBank Tô Hiệu 02 (CRM/CDM)	Chung cư Hoàng Huy Commerce, đường Võ Nguyên Giáp, quận Lê Chân, thành phố Hải Phòng	20.8278924	106.6834274	1900585885		
+ATM TPBank Đà Nẵng (CRM/CDM)	Tòa nhà FPT Complex, Đường Nam Kỳ Khởi Nghĩa, Phường Hòa Hải, Quận Ngũ Hành Sơn, TP Đà Nẵng	15.9728393	108.2586509	1900585885		
+TPBank LiveBank Thanh Xuân Bắc (CRM/CDM)	Số 105D3 khu tập thể Thanh Xuân Bắc, đường Nguyễn Quý Đức, phường Thanh Xuân Bắc, quận Thanh Xuân, TP.Hà Nội	20.9935862	105.7971315	1900585885		
+TPbank LiveBank Bình Định (CRM/CDM)	200-202 Phan Bội Châu, Trần Hưng Đạo, thành phố, Bình Định, Vietnam	13.77527636125836	109.22999694562334	1900585885		
+TPBank LiveBank Tăng Nhơn Phú (CRM/CDM)	127A3, Đường Tăng Nhơn Phú, Phước Long B, Quận 9, Tp.HCM	10.8305728	106.7718114	1900585885		
+TPBank LiveBank TPBank Củ Chi (CRM/CDM)	Số 50-52 khu phố 2, đường Tỉnh lộ 8, thị trấn Củ Chi, huyện Củ Chi, thành phố Hồ Chí Minh	10.96973604520958	106.48879864013325	1900585885		
+TPBank LiveBank Vạn Phúc (CRM/CDM)	Số B-TT04-01, B-TT04-03, B-TT04-05, B-TT04-07, Khu nhà ở Ngân Hà Vạn Phúc, phường Vạn Phúc, quận Hà Đông, Thành phố Hà Nội	20.9856358763172	105.77622296726756	190585885		
+TPBank LiveBank Phước Long A (CRM/CDM)	Số 18 Đường 270, phường Phước Long A, Quận 9, thành phố Hồ Chí Minh	10.823507024831303	106.76968398430816	1900585885		
+TPBank LiveBank Ba Vì (CRM/CDM)	số 157 Quảng Oai, Tây Đằng, Ba Vì, HN	21.196679540114815	5.42704905377745	1900585885		
+TPBank LiveBank Tô Hiệu Hải Phòng (CRM/CDM)	219 P. Tô Hiệu, Trại Cau, Lê Chân, Hải Phòng, Vietnam	20.85086258365743	106.67877188260576	1900585885		
+TPBank LiveBank Đồng Văn Cống (CRM/CDM)	TTTM The CBD Premium Home, số 125 đường Đồng Văn Cống, P.Thạnh Mỹ Lợi, Q.2, HCM	10.774755602198338	106.76245703217711	1900585885		
+LiveBank CitiHome Cát Lái Quận 2 (CRM/CDM)	C0.25, CC H1-04, KDC Cát Lái, P.Cát Lái, Q2, HCM	10.7901183	106.745936			
+TPBank Hồ Chí Minh	Số 67 Nguyễn Thị Minh Khai, Bến Thành, Quận 1	10.781310808046486	106.68895168803091	1900585885		
+TPBank LiveBank An Dương Hải Phòng (CRM/CDM)	Thôn Đình Ngọ, xã Hồng Phong, huyện An Dương, Hải phòng	20.8827961	106.5562249	1900585885		
+LiveBank Quảng Ninh (CRM/CDM)	tờ bản đồ QH, khu dân cư tự xây khu 8, Uông Bí, Quảng Ninh, Vietnam	21.035598241381965	106.7736408972451	1900585885		
+TPBank LiveBank Cần Giờ Huỳnh Tán Phát (CRM/CDM)	Số 1960 Huỳnh Tấn Phát, Khu phố 6, Thị Trấn Nhà Bè, Huyện Nhà Bè, TP Hồ Chí Minh	11.09120656806977	106.74434602971786	1900585885		
+LiveBank Bát Tràng (CRM/CDM)	Số 29 thôn 2 làng cổ Bát tràng, Gia lâm, Hà Nội	20.98071703311422	105.91363783635089	1900585885		
+LiveBank KCN Thái Hòa (CRM/CDM)	Ấp, Tân Hòa, Đức Hòa, Long An	10.916980675176049	106.4583026533639	1900585885		
+LiveBank Ninh Hiệp Gia Lâm (CRM/CDM)	LK4-123 khu nhà ở thấp tầng xã Ninh Hiệp, Gia lâm, Hà nội	21.07747798515433	105.94323825227173	1900585885		
+LiveBank HCM Vincom Đường 3 Tháng 2 (CRM/CDM)	Sân bên ngoài TTTM, Vincom, Đ. 3 Tháng 2, Phường 11, Quận 10, Hồ Chí Minh	10.776735515334506	106.68053762698489			
+CDM HCM FPT Quận 9 (CRM/CDM)		10.855661931684786	106.79372463316572	1900585885		
+ATM TPBank KCN Đồng Đinh Bắc Giang (CRM/CDM)	Công Nghiệp Đồng Đình, Thị Trấn Cao Thượng, Huyện Tân Yên, Tỉnh Bắc Giang	21.388295357798945	106.12707169999999	1900585885		
+TPBank CDM DNI Bao Bì Đại Lục (CRM/CDM)	Công ty Cổ Phần Bao Bì Đại Lục - Đường chợ Chiều, Ấp Thanh Hóa, Xã Hố Nai 3, Trảng Bom, Đồng Nai	11.573560287073455	106.969338622668	1900585885		
+LiveBank Hồ Chí Minh TPBank Quận 11	Số 317,317A,317B Tô Hiến Thành, P.13, Q.10, TP HCM	10.7781826	106.6646385	1900585885		
+ATM TPBank Hoàn kiếm (CRM/CDM)	40 P. Hàng Da, Hàng Bông, Hoàn Kiếm, Hà Nội	21.03100522177722	105.84775622954469	1900585885		
+CDM HCM TPB Q11  (CRM/CDM)	Số 317,317A,317B Tô Hiến Thành, P.13, Q.10, Hồ Chí Minh	10.777589267739067	106.66529732441468	1900585885		
